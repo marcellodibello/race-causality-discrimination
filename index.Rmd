@@ -199,7 +199,7 @@ included in the course materials.
 
 # Handouts 
 
-[Week 1](https://www.marcellodibello.com/race-causality-discrimination//handout/introduction.html) | 
+[Week 1](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) | 
 
 
 
@@ -250,7 +250,7 @@ Oxford University Press
 
 *Additional readings and materials*
 
-- Hall (2007), [Structural Equations and Causation](https://www.marcellodibello.com/commonground/readings/Hall-StructuralEquationsCausation-2007.pdf)
+- Hall (2007), [Structural Equations and Causation](https://www.marcellodibello.com/race-causality-discrimination/readings/Hall-StructuralEquationsCausation-2007.pdf)
 
 
 
@@ -269,14 +269,14 @@ class or gender can well have a causal role.
 
 - [Week 4 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
 
-- Holland (2003), [Causation and Race](https://www.marcellodibello.com/commonground/readings/Holland-Causation-Race-2003.pdf)
+- Holland (2003), [Causation and Race](https://www.marcellodibello.com/race-causality-discrimination/readings/Holland-Causation-Race-2003.pdf)
 
 - Marcellesi (2013), Is Race a Cause?
 
 
 *Additional readings and materials*
 
-- Krieger (2014), [Discrimination and Health Inequities.](https://www.marcellodibello.com/commonground/readings/Krieger-Discrimination-HealthInequities-2014.pdf) 
+- Krieger (2014), [Discrimination and Health Inequities.](https://www.marcellodibello.com/race-causality-discrimination/readings/Krieger-Discrimination-HealthInequities-2014.pdf) 
 (This article reviews the literature on the causal effects of race, as found in studies in epidemiology and health. It illustrates how the causal effects of race can be studied empirically without necessarily presupposing that race is a variable to be manipulated.)
 
 
@@ -294,7 +294,7 @@ How do social scientists respond to these challenges? We will look at a few exam
 
 - Pager (2007),  [The use of field experiments for studies of employment discrimination: contributions, critiques, and directions for the future](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/pager/files/annals_pager.pdf) 
 
-Greiner and Rubin (2010), [Causal effects of perceived immutable characteristics](https://www.marcellodibello.com/commonground/readings/Greiner-Rubin-Cause-Immutable-2010.pdf)
+Greiner and Rubin (2010), [Causal effects of perceived immutable characteristics](https://www.marcellodibello.com/race-causality-discrimination/readings/Greiner-Rubin-Cause-Immutable-2010.pdf)
 
 
 *Additional readings and materials*
@@ -319,11 +319,11 @@ as indicators of the causal role of race.
 
 - Sen and Wasow (2016), [Race as a bundle of sticks: Designs that estimate effects of seemingly immutable characteristics](https://scholar.harvard.edu/files/msen/files/race_causality.pdf)
 
-- Walton and Cohen (2011), [A brief social-belonging intervention improves academic and health outcomes of minority students](https://www.marcellodibello.com/commonground/readings/Walton-BriefSocialBelongingIntervention-2011.pdf)
+- Walton and Cohen (2011), [A brief social-belonging intervention improves academic and health outcomes of minority students](https://www.marcellodibello.com/race-causality-discrimination/readings/Walton-BriefSocialBelongingIntervention-2011.pdf)
 
 *Additional readings and materials*
 
-- VanderWeele and Robinson (2014), [On Causal Interpretation of Race in Regressions Adjusting for Confounding and Mediating Variables](https://www.marcellodibello.com/commonground/readings/VanderWeeleRobinson-RaceRegression2024.pdf)
+- VanderWeele and Robinson (2014), [On Causal Interpretation of Race in Regressions Adjusting for Confounding and Mediating Variables](https://www.marcellodibello.com/race-causality-discrimination/readings/VanderWeeleRobinson-RaceRegression2024.pdf)
 
 
 
@@ -364,11 +364,8 @@ We'll start with a social constructionist view of race.
 
 *Essential readings*
 
-- [Week 10 - handout](https://www.marcellodibello.com/commonground/handout/epistemic-injustice)  
+- [Week 10 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
 
-- Fricker (2007), Hermeneutical Injustice (Chapter 7 of [Epistemic Injustice](https://academic.oup.com/book/32817)) - *Check Canvas*
-
-- Spivak (1988), [Can the Subaltern Speak?](https://abahlali.org/files/Can_the_subaltern_speak.pdf) (abridged version [here](https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf))
 
 
 *Additional readings and materials*
