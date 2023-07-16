@@ -1,6 +1,6 @@
 
 ---
-title: "Race, Causality and Discrimination"
+title: "Race Causality Discrimination"
 subtitle: "Fall 23"
 author: "[Marcello Di Bello](https://www.marcellodibello.com/)  - mdibello@asu.edu"
 output:
@@ -123,8 +123,10 @@ This course is meant for advanced undergraduates and graduate students.
 You will become familiar with different conceptions of the common ground 
 in various sub-disciplines of philosophy. The goal is to 
 understand these conceptions and utilize them to illuminate trends in 
-society and politics today. You will sharpen your critical thinking skills, in reading  and  writing, for the analysis of theoretical concepts and their application to current 
-social and political questions. You will read academic papers in different sub-disciplines of philosophy---philosophy of language, logic, epistemology, moral, social and political philosophy, post-colonial theory---and develop an appreciation for their distinctive contribution. 
+society and politics today. You will sharpen your critical thinking skills, in reading  and  writing, 
+for the analysis of theoretical concepts and their application to current 
+social and political questions. You will read academic papers in philosophy 
+and the social sciences, and develop an appreciation for their distinctive contribution. 
 
 # Course Materials
 
@@ -197,179 +199,108 @@ included in the course materials.
 
 # Handouts 
 
-[Week 1](https://www.marcellodibello.com/commonground/handout/introduction.html) | 
-[Week 2](https://www.marcellodibello.com/commonground/handout/communication.html) | 
-[Week 3](https://www.marcellodibello.com/commonground/handout/Radical-Interpretation.html) | 
-[Week 4](https://www.marcellodibello.com/commonground/handout/incommensurability.html) | 
-[Week 5](https://www.marcellodibello.com/commonground/handout/Logic-Argumentation.html) | 
-[Week 6](https://www.marcellodibello.com/commonground/handout/skepticism.html) | 
-[Week 7](https://www.marcellodibello.com/commonground/handout/rational-polarization.html) | 
-[Week 8](https://www.marcellodibello.com/commonground/handout/bubbles-chambers.html) | 
-*Week 9 - Spring Break* |
-[Week 10](https://www.marcellodibello.com/commonground/handout/epistemic-injustice) | 
-[Week 11](https://www.marcellodibello.com/commonground/handout/political-liberalism.html) | 
-[Week 12](https://www.marcellodibello.com/commonground/handout/self-org.html) | 
-[Week 13](https://www.marcellodibello.com/commonground/handout/individualism.html) | 
-[Week 14](https://www.marcellodibello.com/commonground/handout/trust-civility.html) | 
-*Week 15 - Workshop* |
-[Week 16](https://www.marcellodibello.com/commonground/handout/end.html) | 
-
+[Week 1](https://www.marcellodibello.com/race-causality-discrimination//handout/introduction.html) | 
 
 
 
 # Schedule 
 
-## 1/12
+## 8/22
 
 **Week 1: Introduction**
 
-
-The need for 
-
 *Essential readings*
 
-- [Week 1 - handout](https://www.marcellodibello.com/commonground/handout/introduction.html) 
+- [Week 1 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) 
 
 
-- Rodgers (2011), The Rediscovery of the Market (Chapter 2 of [The Age of Fracture](https://www.hup.harvard.edu/catalog.php?isbn=9780674064362)) - *Check Canvas*
-
-- Deneen (2018), The Degradation of Citizenship (Chapter 7 of [Why Liberalism Failed](https://yalebooks.yale.edu/book/9780300240023/why-liberalism-failed/))  - *Check Canvas*
-
-- McGhee (2021), Racism Drained the Pool (Chapter 2 of [The Sum of Us](https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/))  - *Check Canvas*
 
 
-## 1/19
+## 8/29
 
-**Week 2: Communication**
+**Week 2: Causation as Manipulation in Statistics**
 
-The first perspective on the common ground---and perhaps the most basic---is that the common ground is what allows us to communicate meaningfully with one another. In this sense, it comprises rules of communication, the meanings of words, and shared beliefs. 
-But the common ground can also be what makes possible more divisive forms of communication, such as hate speech. In this sense, the common ground 
-is shared by a select group of people, not everybody. This raises the question, whose common ground are we talking about? Does it even make sense to talk about a common ground that is shared by all?
-
-
-**Q&A with Sam Berstler**
-
-The first part of the class will consist in a Q&A session with [Sam Berstler](https://samberstler.com/), a philosopher at the Massachusetts Institute of Technology whose research in philosophy of language examines the question of the common ground. She is the author of one of the readings assigned for today. *Please come prepared to ask questions.*
+How should we understand the nature of causality and how should we study causality? A prominent account in both statistics and philosophy is the so-called *manipulationist account*. This account aims to guide both our philosophical theorizing about the nature of causality, as well as the emprical study of causal effects. 
+This week and the next will be devoted to understanding this manipulationist account. 
 
 
 *Essential readings*
 
-- [Week 2 - handout](https://www.marcellodibello.com/commonground/handout/communication.html)  
+- [Week 2 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
 
-- Berstler (2021), [Against Cheap Common Ground](https://drive.google.com/file/d/1nxdga6D6m7QZfTggEY-JMcutWtAScBQn/view)
-
-- Langton (2012), [Beyond Belief: Pragmatics in Hate Speech and Pornography](http://www.mit.edu/~shaslang/resch/LangtonBB.pdf)
-
-*Additional readings and materials*
-
-- Stalnaker (2002), [Common Ground](https://semantics.uchicago.edu/kennedy/classes/f07/pragmatics/stalnaker02.pdf)
-
-
-- Grice (1975), [Logic and Conversation](https://www.ucl.ac.uk/ls/studypacks/Grice-Logic.pdf)
-
--  Miller (2022), [Merely Verbal Disputes and Common Ground](https://onlinelibrary.wiley.com/doi/pdf/10.1111/theo.12449)
-
-
-##  1/26
-
-
-**Week 3: Radical Interpretation**
-
-What if your interlocutor spoke a radically different 
-language so that you could not understand what they say? This is the problem of radical interpretation. To carry out a translation, one needs to figure out what the other person means, and in order to figure out what the other person means, one needs to figure out what they believe. Without a grasp of what they mean or believe, no translation seems possible. To avoid this impasse, the principle of charity might help, that is, to assume that what we believe is what others would believe in similar circumstances. This putative similarity of beliefs can then be used to carry out a translation. If this is right, the challenge of radical interpretation might not be too radical in the end. We share more with others than we might have thought. 
-
-
-*Essential readings*
-
-- [Week 3 - handout ](https://www.marcellodibello.com/commonground/handout/Radical-Interpretation.html) 
-
-- Davidson (1973), [Radical Interpretation](https://www.marcellodibello.com/commonground/readings/DavidsonRadicalInt.pdf)
-
-- Lewis (1974), [Radical Interpretation](https://wilsonhellie.typepad.com/files/radicalinterp.pdf)
-
-
-*Additional readings and materials*
-
-- Davidson (1986), [A Nice Derangement of Epitaphs](http://www.sfs.uni-tuebingen.de/~mramscar/papers/Davidson_Derangement.pdf)
-
-- SEP, [Donald Davidson](https://plato.stanford.edu/entries/davidson/)
-
-
-## 2/2
-
-
-**Week 4: Incommensurability**
-
-In grappling with the problem of radical interpretation, we did not take seriously 
-the possibility that other people could hold radically different conceptions of the world. They could carve out the world, so to speak, in radically different ways from us. If that is so, how could we assume---as the principle of charity does---that we all share the same beliefs? The absence of a common ground, from a linguistic and conceptual perspective, is what is sometimes called incommensurability. There are many forms of incommensurability: linguistic, conceptual, moral, etc. We will focus primarily on linguistic and conceptual incommensurability, but also consider its social implications. 
-
-
-**Q&A with Elizabeth Povinelli**
-
-The first part of the class will consist in a Q&A session with [Elizabeth Povinelli](https://anthropology.columbia.edu/content/elizabeth-povinelli), an anthropologist at Columbia Universality and a [filmmaker](https://karrabing.info/). Her paper on the anthropology of incommensurability is one of the readings assigned for today. *Please come prepared to ask questions.*
-
-
-*Essential readings*
-
-- [Week 4 - handout](https://www.marcellodibello.com/commonground/handout/incommensurability.html)  
-
-- Davidson (1973), [On the Very Idea of a Conceptual Scheme](https://www.marcellodibello.com/commonground/readings/DavidsonConceptualSc.pdf)
-(Using a Tarski-style theory of meaning, the paper argues that it is impossible for two languages to be incommensurable)
-
-- Povinelli (2001), [Radical Worlds: The Anthropology of Incommensurability and Inconceivability](https://www.marcellodibello.com/commonground/readings/PovinelliRadicalWorlds.pdf)
-
-*Additional readings and materials*
-
-- Borges, [Avverroes](https://www.pierre-legrand.com/borges-averroess-search.pdf)
-(A story about how the Islamic philosopher Averroes could not understand the meaning of words such as "comedy" and "tragedy" because he had no idea about Ancient Greek theater.)
-
-- Popper (1976), The Myth of the Framework (essay in [The Myth of the Framework: In Defence of Science and Rationality](https://www.routledge.com/The-Myth-of-the-Framework-In-Defence-of-Science-and-Rationality/Notturno-Popper/p/book/9780415135559) - *Check Canvas*
-
-
-- Kuhn (1982), [Commensurability, Comparability, Communicability](https://www.marcellodibello.com/commonground/readings/KuhnComComCom.pdf)
-
-- Sankey (1997), [Incommensurability: The Current State of Play](https://philpapers.org/archive/SANITC.pdf)
-
-
-- Chang (1997), [Introduction](https://static1.squarespace.com/static/5c4d055b365f02de29e99730/t/5c4e8d06032be4c4182f061f/1548651785192/Chang_IntroductionIncommensurabilityBook.pdf) (to the edited Volume Incommensurability, Incomparability, and Practical reason)
-
-
-## 2/9
-
-**Week 5: Logic and Argumentation**
-
-The second perspective on the common ground we will examine 
-has to do with logic, reasoning and argumentation. It would seem that, in virtue of sharing certain principles of reasoning, we can debate, disagree and resolve our disagreements. 
-<!--The scholastic philosophers of the Middle Ages used to say "contra impugnantes principia non est disputandum (which can be translated as: against those who reject the principles of logic, there cannot be a discussion). Here, the common ground comprises certain fundamental logical principles and rules of reasing. Such common ground makes rational discussion possible.  --->
-And yet, it is surprising hard to justify even the most basic logical principle of all, the principle of non-contradiction---that one should not assert p and its negation at the same time. And, more recently, some logicians have even come to endorse logical pluralism, the view that in fact there can be a multiplicity of logical principles. <!---If logical pluralism is correct, the validity of a piece of reasoning will vary on a case-by-case basis.  ---> Perhaps, then, we should not aim to find a common ground by attempting to justify logical principles. Turning from logic to argumentation theory, a more feasible approach might be to settle, in a dialogical setting, on argumentative rules that make rational inquiry possible. But what does that require, exactly?
-
-
-**Q&A with Nathan Ballantyne**
-
-The first part of the class will consist in a Q&A session with [Nathan Ballantyne](https://twitter.com/nathanballan), a philosopher at Arizona State University. His paper on the fog of debate is one of the readings assigned for today. *Please come prepared to ask questions.*
-
-
-*Essential readings*
-
-- [Week 5 - handout](https://www.marcellodibello.com/commonground/handout/Logic-Argumentation.html) 
-
-- Beall and Restall (2000), [Logical pluralism](https://consequently.org/papers/pluralism.pdf)
-
-- Ballantyne (2022), [The Fog of Debate](https://www.dropbox.com/s/y03w1gq60saq9dm/Ballantyne_FogOfDebate_2022.pdf?dl=0)
-
+- Holland (1986), [Statistics and Causal Inference](http://people.umass.edu/~stanek/pdffiles/causal-holland.pdf)
 
 *Additional readings and materials*
 
 
-- van Eemeren (2003), Rules for a Critical Discussion (Chapter 6 of A Systematic Theory of Argumentation) - *Check Canvas*
+
+##  9/5
 
 
-- Aristotle, [Metaphysics 4](http://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Met.+4&fromdoc=Perseus%3Atext%3A1999.01.0052)
+**Week 3: Causation as Manipulation in Philosophy**
 
 
-- SEP, [Logical Pluralism](https://plato.stanford.edu/entries/logical-pluralism/)
+*Essential readings*
 
-- SEP, [Aristotle on Non-contradiction](https://plato.stanford.edu/entries/aristotle-noncontradiction/)
+- [Week 3 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
+
+- Woodward (2003), Causation and Manipulation, Chapter 2 of Woodward's book *Making Things Happens*, 
+Oxford University Press
+ 
+
+*Additional readings and materials*
+
+- Hall (2007), [Structural Equations and Causation](https://www.marcellodibello.com/commonground/readings/Hall-StructuralEquationsCausation-2007.pdf)
+
+
+
+## 9/12
+
+
+**Week 4: Race and Manipulation: no!**
+
+We will now look at the challenges that this manipulationist account of causation faces in investigating the causal role of social categories, in particular, race. A number of authors think that race cannot be a cause. If, as the slogan goes, "no causation without manipulation", then race cannot be a cause insofar as race cannot be manipulated. 
+But isn't this view too radical? Perhaps, race is not 
+a variable that can be manipulated, but it still has a causal role, just like 
+class or gender can well have a causal role.  
+
+
+*Essential readings*
+
+- [Week 4 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
+
+- Holland (2003), [Causation and Race](https://www.marcellodibello.com/commonground/readings/Holland-Causation-Race-2003.pdf)
+
+- Marcellesi (2013), Is Race a Cause?
+
+
+*Additional readings and materials*
+
+- Krieger (2014), [Discrimination and Health Inequities.](https://www.marcellodibello.com/commonground/readings/Krieger-Discrimination-HealthInequities-2014.pdf) 
+(This article reviews the literature on the causal effects of race, as found in studies in epidemiology and health. It illustrates how the causal effects of race can be studied empirically without necessarily presupposing that race is a variable to be manipulated.)
+
+
+
+## 9/19
+
+**Week 5: Race and Manipulation: yes!**
+
+How do social scientists respond to these challenges? We will look at a few examples of studies in sociology and economics that make causal claims about race. In these studies, race (or a signal for race) is still manipulated. Is the manipulationist account, then, secure from objections when it comes to social categories such as race?
+
+
+*Essential readings*
+
+- [Week 5 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
+
+- Pager (2007),  [The use of field experiments for studies of employment discrimination: contributions, critiques, and directions for the future](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/pager/files/annals_pager.pdf) 
+
+Greiner and Rubin (2010), [Causal effects of perceived immutable characteristics](https://www.marcellodibello.com/commonground/readings/Greiner-Rubin-Cause-Immutable-2010.pdf)
+
+
+*Additional readings and materials*
+
+- Bertrand and Mullainathan (2004), [Are Emily and Greg more employable than Lakisha and Jamal?](https://cos.gatech.edu/facultyres/Diversity_Studies/Bertrand_LakishaJamal.pdf) 
+
 
 
 ## 2/16
