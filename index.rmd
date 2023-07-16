@@ -1,0 +1,646 @@
+
+---
+title: "Race, Causality and Discrimination"
+subtitle: "Fall 23"
+author: "[Marcello Di Bello](https://www.marcellodibello.com/)  - mdibello@asu.edu"
+output:
+    rmdformats::html_clean:
+    fig_width: 6
+    fig_height: 6
+    highlight: kate
+    thumbnails: true
+    lightbox: true
+    gallery: true
+    toc_depth: 2
+    toc: TRUE
+---    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"algo-fair-logo.png\" style=\"float: right;width: 300px;height: 220px;\"/>')
+   });
+</script>
+
+
+
+```{r knitr_init, echo=FALSE, results="asis", cache=FALSE}
+library(knitr)
+library(rmdformats)
+## Global options
+options(max.print = "75")
+opts_chunk$set(echo = FALSE,
+	             cache = FALSE,
+               prompt = FALSE,
+               tidy = TRUE,
+               comment = NA,
+               message = FALSE,
+               warning = FALSE)
+opts_knit$set(width = 75)
+```
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+  }
+
+</style>
+
+
+
+<!--- 
+ADDED STYLES/ FONT SIZSES
+<style type="text/css">
+body{ /* Normal  */
+      font-size: 18px;
+  }
+  
+ 
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+h2 { /* Header 2 */
+    font-size: 22px;
+  color: DarkBlue;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
+-->
+
+
+Th	1:30-4:15 PM in Tempe, [COOR](https://www.asu.edu/map/interactive/?psCode=COOR) ~~3301~~ 3323   
+
+Office hours: Thursday after class or by appointment
+
+# Topic
+
+This seminar examines 
+
+
+
+# Objectives
+
+This course is meant for advanced undergraduates and graduate students. 
+You will become familiar with different conceptions of the common ground 
+in various sub-disciplines of philosophy. The goal is to 
+understand these conceptions and utilize them to illuminate trends in 
+society and politics today. You will sharpen your critical thinking skills, in reading  and  writing, for the analysis of theoretical concepts and their application to current 
+social and political questions. You will read academic papers in different sub-disciplines of philosophy---philosophy of language, logic, epistemology, moral, social and political philosophy, post-colonial theory---and develop an appreciation for their distinctive contribution. 
+
+# Course Materials
+
+Readings and other course materials are available 
+on this website. For readings covered 
+by copyright, please check the Canvas page for this course.  
+Course materials are divided into "essential" and "additional". 
+You are only expected to study the essential ones, but I 
+recommend that you have a look at the 
+additional materials for at least one 
+or two weeks.
+
+
+# Requirements
+
+
+## Participation
+
+Please attend class regularly and participate 
+(**10% of our grade**). This is a "seminar style" course. You are 
+expected to take an active role in the discussions. Please study the assigned 
+materials **before class** and be ready to discuss them. 
+
+
+## Assignments
+
+In addition, 
+you should write ten 
+Pass/Fail précis as well as three graded essays or 
+a research paper (**90% of your grade**).
+
+### Pass/fail 
+
+Every week please write a **one-page précis** of one of the papers assigned for that week. 
+The précis should describe: (a) topic of the paper; 
+(b) main thesis (or main theses, if there are more than one); 
+(c) supporting arguments; (d) objections to these arguments, complications or 
+difficulties that the author considers (if any). Submit 
+your précis each week through Canvas **before the beginning of class**. 
+You should receive a PASS in **at least ten précis**, or else a full letter grade 
+will be subtracted from your final grade: A would become B; B would become C; etc.
+
+
+### Essays 
+
+There will be three main graded assignments 
+for this course, **5 pages each**. 
+
+**1**. Write a **critical response** to one of the philosophy papers you read. 
+Your response should contain a careful summary of the the specific thesis and argument of the paper you want to criticize (1-2 pages). After that, you should explain, in great detail and with painstaking precision, why you disagree with the paper's thesis and argument (3-4 pages). Please select a paper you disagree with. If you agree with everything you read, please come talk to me.
+
+
+**2**. After doing independent research, collect and summarize a **case study** that illustrates the idea of the common ground (or lack thereof). The first part of your essay (1-2 pages) should describe your case study. Topics for your case study could include, but are not limited to, debates about abortion, vaccine, race, climate change. The second part (3-4 pages) should use some of the course readings to analyze your case study from the point of view of philosophy of language, logic or epistemology. 
+
+**3**. Write a **philosophical argumentative essay** that attempts to answer the question "What Is the Common Ground and Why Does it Matter?" In answering the first part of the question, I recommend that you focus on a specific notion of the common ground, as is discussed in philosophy of language, logic, epistemology, social and political philosophy, or post-colonial theory. In answering the second part of the question, I recommend that you draw from current trends in society and politics. You may (but need not to) build on the case study you discussed in your second graded assignment.  You are encouraged to think critically about the common ground, highlighting its positive as well as its negative implications. 
+
+
+### Research paper 
+
+If you are a grad student or advanced undergrad with research experience, 
+you may combine the three 5 page essays into one 
+**15-20 page** research paper. The research paper should engage closely 
+with a subset of the course materials including the additional ones. 
+It is neither necessary nor recommended that you use materials outside those already 
+included in the course materials. 
+
+*Please come talk to me before you start working on the research paper.* 
+
+
+
+# Handouts 
+
+[Week 1](https://www.marcellodibello.com/commonground/handout/introduction.html) | 
+[Week 2](https://www.marcellodibello.com/commonground/handout/communication.html) | 
+[Week 3](https://www.marcellodibello.com/commonground/handout/Radical-Interpretation.html) | 
+[Week 4](https://www.marcellodibello.com/commonground/handout/incommensurability.html) | 
+[Week 5](https://www.marcellodibello.com/commonground/handout/Logic-Argumentation.html) | 
+[Week 6](https://www.marcellodibello.com/commonground/handout/skepticism.html) | 
+[Week 7](https://www.marcellodibello.com/commonground/handout/rational-polarization.html) | 
+[Week 8](https://www.marcellodibello.com/commonground/handout/bubbles-chambers.html) | 
+*Week 9 - Spring Break* |
+[Week 10](https://www.marcellodibello.com/commonground/handout/epistemic-injustice) | 
+[Week 11](https://www.marcellodibello.com/commonground/handout/political-liberalism.html) | 
+[Week 12](https://www.marcellodibello.com/commonground/handout/self-org.html) | 
+[Week 13](https://www.marcellodibello.com/commonground/handout/individualism.html) | 
+[Week 14](https://www.marcellodibello.com/commonground/handout/trust-civility.html) | 
+*Week 15 - Workshop* |
+[Week 16](https://www.marcellodibello.com/commonground/handout/end.html) | 
+
+
+
+
+# Schedule 
+
+## 1/12
+
+**Week 1: Introduction**
+
+
+The need for 
+
+*Essential readings*
+
+- [Week 1 - handout](https://www.marcellodibello.com/commonground/handout/introduction.html) 
+
+
+- Rodgers (2011), The Rediscovery of the Market (Chapter 2 of [The Age of Fracture](https://www.hup.harvard.edu/catalog.php?isbn=9780674064362)) - *Check Canvas*
+
+- Deneen (2018), The Degradation of Citizenship (Chapter 7 of [Why Liberalism Failed](https://yalebooks.yale.edu/book/9780300240023/why-liberalism-failed/))  - *Check Canvas*
+
+- McGhee (2021), Racism Drained the Pool (Chapter 2 of [The Sum of Us](https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/))  - *Check Canvas*
+
+
+## 1/19
+
+**Week 2: Communication**
+
+The first perspective on the common ground---and perhaps the most basic---is that the common ground is what allows us to communicate meaningfully with one another. In this sense, it comprises rules of communication, the meanings of words, and shared beliefs. 
+But the common ground can also be what makes possible more divisive forms of communication, such as hate speech. In this sense, the common ground 
+is shared by a select group of people, not everybody. This raises the question, whose common ground are we talking about? Does it even make sense to talk about a common ground that is shared by all?
+
+
+**Q&A with Sam Berstler**
+
+The first part of the class will consist in a Q&A session with [Sam Berstler](https://samberstler.com/), a philosopher at the Massachusetts Institute of Technology whose research in philosophy of language examines the question of the common ground. She is the author of one of the readings assigned for today. *Please come prepared to ask questions.*
+
+
+*Essential readings*
+
+- [Week 2 - handout](https://www.marcellodibello.com/commonground/handout/communication.html)  
+
+- Berstler (2021), [Against Cheap Common Ground](https://drive.google.com/file/d/1nxdga6D6m7QZfTggEY-JMcutWtAScBQn/view)
+
+- Langton (2012), [Beyond Belief: Pragmatics in Hate Speech and Pornography](http://www.mit.edu/~shaslang/resch/LangtonBB.pdf)
+
+*Additional readings and materials*
+
+- Stalnaker (2002), [Common Ground](https://semantics.uchicago.edu/kennedy/classes/f07/pragmatics/stalnaker02.pdf)
+
+
+- Grice (1975), [Logic and Conversation](https://www.ucl.ac.uk/ls/studypacks/Grice-Logic.pdf)
+
+-  Miller (2022), [Merely Verbal Disputes and Common Ground](https://onlinelibrary.wiley.com/doi/pdf/10.1111/theo.12449)
+
+
+##  1/26
+
+
+**Week 3: Radical Interpretation**
+
+What if your interlocutor spoke a radically different 
+language so that you could not understand what they say? This is the problem of radical interpretation. To carry out a translation, one needs to figure out what the other person means, and in order to figure out what the other person means, one needs to figure out what they believe. Without a grasp of what they mean or believe, no translation seems possible. To avoid this impasse, the principle of charity might help, that is, to assume that what we believe is what others would believe in similar circumstances. This putative similarity of beliefs can then be used to carry out a translation. If this is right, the challenge of radical interpretation might not be too radical in the end. We share more with others than we might have thought. 
+
+
+*Essential readings*
+
+- [Week 3 - handout ](https://www.marcellodibello.com/commonground/handout/Radical-Interpretation.html) 
+
+- Davidson (1973), [Radical Interpretation](https://www.marcellodibello.com/commonground/readings/DavidsonRadicalInt.pdf)
+
+- Lewis (1974), [Radical Interpretation](https://wilsonhellie.typepad.com/files/radicalinterp.pdf)
+
+
+*Additional readings and materials*
+
+- Davidson (1986), [A Nice Derangement of Epitaphs](http://www.sfs.uni-tuebingen.de/~mramscar/papers/Davidson_Derangement.pdf)
+
+- SEP, [Donald Davidson](https://plato.stanford.edu/entries/davidson/)
+
+
+## 2/2
+
+
+**Week 4: Incommensurability**
+
+In grappling with the problem of radical interpretation, we did not take seriously 
+the possibility that other people could hold radically different conceptions of the world. They could carve out the world, so to speak, in radically different ways from us. If that is so, how could we assume---as the principle of charity does---that we all share the same beliefs? The absence of a common ground, from a linguistic and conceptual perspective, is what is sometimes called incommensurability. There are many forms of incommensurability: linguistic, conceptual, moral, etc. We will focus primarily on linguistic and conceptual incommensurability, but also consider its social implications. 
+
+
+**Q&A with Elizabeth Povinelli**
+
+The first part of the class will consist in a Q&A session with [Elizabeth Povinelli](https://anthropology.columbia.edu/content/elizabeth-povinelli), an anthropologist at Columbia Universality and a [filmmaker](https://karrabing.info/). Her paper on the anthropology of incommensurability is one of the readings assigned for today. *Please come prepared to ask questions.*
+
+
+*Essential readings*
+
+- [Week 4 - handout](https://www.marcellodibello.com/commonground/handout/incommensurability.html)  
+
+- Davidson (1973), [On the Very Idea of a Conceptual Scheme](https://www.marcellodibello.com/commonground/readings/DavidsonConceptualSc.pdf)
+(Using a Tarski-style theory of meaning, the paper argues that it is impossible for two languages to be incommensurable)
+
+- Povinelli (2001), [Radical Worlds: The Anthropology of Incommensurability and Inconceivability](https://www.marcellodibello.com/commonground/readings/PovinelliRadicalWorlds.pdf)
+
+*Additional readings and materials*
+
+- Borges, [Avverroes](https://www.pierre-legrand.com/borges-averroess-search.pdf)
+(A story about how the Islamic philosopher Averroes could not understand the meaning of words such as "comedy" and "tragedy" because he had no idea about Ancient Greek theater.)
+
+- Popper (1976), The Myth of the Framework (essay in [The Myth of the Framework: In Defence of Science and Rationality](https://www.routledge.com/The-Myth-of-the-Framework-In-Defence-of-Science-and-Rationality/Notturno-Popper/p/book/9780415135559) - *Check Canvas*
+
+
+- Kuhn (1982), [Commensurability, Comparability, Communicability](https://www.marcellodibello.com/commonground/readings/KuhnComComCom.pdf)
+
+- Sankey (1997), [Incommensurability: The Current State of Play](https://philpapers.org/archive/SANITC.pdf)
+
+
+- Chang (1997), [Introduction](https://static1.squarespace.com/static/5c4d055b365f02de29e99730/t/5c4e8d06032be4c4182f061f/1548651785192/Chang_IntroductionIncommensurabilityBook.pdf) (to the edited Volume Incommensurability, Incomparability, and Practical reason)
+
+
+## 2/9
+
+**Week 5: Logic and Argumentation**
+
+The second perspective on the common ground we will examine 
+has to do with logic, reasoning and argumentation. It would seem that, in virtue of sharing certain principles of reasoning, we can debate, disagree and resolve our disagreements. 
+<!--The scholastic philosophers of the Middle Ages used to say "contra impugnantes principia non est disputandum (which can be translated as: against those who reject the principles of logic, there cannot be a discussion). Here, the common ground comprises certain fundamental logical principles and rules of reasing. Such common ground makes rational discussion possible.  --->
+And yet, it is surprising hard to justify even the most basic logical principle of all, the principle of non-contradiction---that one should not assert p and its negation at the same time. And, more recently, some logicians have even come to endorse logical pluralism, the view that in fact there can be a multiplicity of logical principles. <!---If logical pluralism is correct, the validity of a piece of reasoning will vary on a case-by-case basis.  ---> Perhaps, then, we should not aim to find a common ground by attempting to justify logical principles. Turning from logic to argumentation theory, a more feasible approach might be to settle, in a dialogical setting, on argumentative rules that make rational inquiry possible. But what does that require, exactly?
+
+
+**Q&A with Nathan Ballantyne**
+
+The first part of the class will consist in a Q&A session with [Nathan Ballantyne](https://twitter.com/nathanballan), a philosopher at Arizona State University. His paper on the fog of debate is one of the readings assigned for today. *Please come prepared to ask questions.*
+
+
+*Essential readings*
+
+- [Week 5 - handout](https://www.marcellodibello.com/commonground/handout/Logic-Argumentation.html) 
+
+- Beall and Restall (2000), [Logical pluralism](https://consequently.org/papers/pluralism.pdf)
+
+- Ballantyne (2022), [The Fog of Debate](https://www.dropbox.com/s/y03w1gq60saq9dm/Ballantyne_FogOfDebate_2022.pdf?dl=0)
+
+
+*Additional readings and materials*
+
+
+- van Eemeren (2003), Rules for a Critical Discussion (Chapter 6 of A Systematic Theory of Argumentation) - *Check Canvas*
+
+
+- Aristotle, [Metaphysics 4](http://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Met.+4&fromdoc=Perseus%3Atext%3A1999.01.0052)
+
+
+- SEP, [Logical Pluralism](https://plato.stanford.edu/entries/logical-pluralism/)
+
+- SEP, [Aristotle on Non-contradiction](https://plato.stanford.edu/entries/aristotle-noncontradiction/)
+
+
+## 2/16
+
+
+**Week 6: Skepticism, Tradition and Common-sense**
+
+We now turn from logic and argumentation theory to epistemology. <!---Broadly speaking, we  all agree that as we aim to figure out facts about the world, we should gather pertinent evidence, conscientiously assess it and draw conclusions from it. --->
+From an epistemological perspective, it is common ground we should be responsive to evidence if we aim to figure out what the world is like. But the skeptic will ask, why should we be responsive to evidence?
+<!---
+Being responsive to evidence will likely include a set of epistemic rules and practices, such as follow the deliverance of the senses; perform experiments in such-and-such a way; and so.  The problem, however, is that whatever these epistemic rules and practices are, it would be hard to justify them in a non-circular way. This is the skeptical challenge. ---> <!---We might say that evidence is truth-conducive. ---> Scientists themselves have suggested that common rules and practices used to gather, analyze and  draw inferences from evidence more often lead to falsehoods rather than truths. These claims might be exaggerated, but even if they are, the skeptical doubt remains.  For how can we claim that being evidence-responsive is truth-conducive without, in a circular manner, appeal to evidence? 
+
+Instead of attempting to ground our epistemology from first principles, the common ground could include a reference to common-sense and traditions rooted in history. But this would seem a capitulation of reason and would still leave open the question, why should we follow common-sense or tradition in the first place?  Why should that be our common ground? The skeptical challenge persists. 
+
+*Essential readings*
+
+- [Week 6 -handout](https://www.marcellodibello.com/commonground/handout/skepticism.html) 
+
+- Lynch (2012), Nothing but Dreams and Smoke and Reasons Ends: Tradition and Common Sense (Chapters 3 and 4 of [In Praise of Reason](https://mitpress.mit.edu/9780262526050/in-praise-of-reason/))  - *Check Canvas*
+
+
+*Additional readings and materials*
+
+
+- Ioannidis (2005), [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+
+
+## 2/23
+
+
+**Week 7: Rational Polarization**
+
+The challenge of skepticism stands unanswered, but its significance should not be exaggerated. 
+Perhaps, those who doubt the effectiveness of vaccines or challenge the evidence about climate change are skeptics who  doubt the principles of scientific inquiry. Admittedly, this is a far-fetched explanation for belief polarization. The challenge of skepticism has always been with us. Polarization, instead, is a phenomenon more circumscribed and historically situated.  
+
+Let us assume---optimistically---that people are often willing to engage in an empirically-informed rational inquiry in which they share criteria for assessing the strength of their evidence. <!---So long as this epistemological common ground exists and the inquirers share the same evidence, we should hope that no irredeemable disagreement can emerge. But a lot depends on what we mean by "sharing the same evidence". While two people might share the same "brute" evidence---say, they have access to the same data, documents, readings, etc.---they might interpret it differently. Or the same evidence might be ambiguous and thus invite different interpretations. --->
+And yet, even people who share the same evidence and the same standards for assessing it might end up endorsing radically different positions---a phenomenon that has been called "rational polarization". How widespread or worried we should be about this phenomenon is another matter. Is rational polarization the most plausible explanation for widespread polarization? This is hard to say, but there is empirical evidence that rational polarization plays an important role in explaining actual belief polarization. 
+
+**Q&A with Kevin Dorst**
+
+The first part of the class will consist in a Q&A session with [Kevin Dorst](https://www.kevindorst.com/), a philosopher at the Massachusetts Institute of Technology whose paper on rational polarization is one of the readings assigned for today. *Please come prepared to ask questions.*
+
+
+*Essential readings*
+
+-  [Week 7 - handout](https://www.marcellodibello.com/commonground/handout/rational-polarization.html) 
+
+- Kelly (2008), [Disagreement, Dogmatism, and Belief Polarization](http://www.princeton.edu/~tkelly/BF2.pdf)
+
+- Dorst (2022), [Rational Polarization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3918498)
+
+*Additional readings and materials*
+
+-  Lord,  Ross, and Lepper (1979), [Biased Assimilation and
+Attitude Polarization](https://www.marcellodibello.com/commonground/readings/BiasedAssim.pdf)
+
+-  Gilovich (1991), Seeing What we Expect to See (Chapter 3 of [How We Know What Isn’t So](https://www.simonandschuster.com/books/How-We-Know-What-Isnt-So/Thomas-Gilovich/9780029117064) - *Check Canvas*
+
+
+## 3/2 
+
+**First essay due**
+
+
+**Week 8: Bubbles and Chambers**
+
+Another explanation for belief polarization is that---because of the structure of information cascading on social media---people will have selective access to information and inhabit epistemic bubbles and echo chambers (though the two are different). Echo chambers and bubbles are failures of common ground in the sense that people do not share the same evidence. Given these circumstances, then, belief polarization is inevitable, and in many ways, unsurprising. The cure is simple: escape your epistemic bubble and echo chamber; go talk to those with whom you disagree; etc. As we will see, though, it is much harder to escape an echo chamber than an epistemic bubble. 
+
+*Essential readings*
+
+- [Week 8 - handout](https://www.marcellodibello.com/commonground/handout/bubbles-chambers.html) 
+
+- Nguyen, [Echo Chambers and Epistemic Bubbles](https://www.marcellodibello.com/commonground/readings/ChambersBubbles.pdf)
+
+- Lackey, Disagreement and Belief Dependence: Why Numbers Matter (essay in Christensen & Lackey, [The Epistemology of Disagreement](https://academic.oup.com/book/5080)) - Check Canvas
+
+ The Epistemology of Disagreement
+
+*Additional readings and materials*
+
+- Let's Find Common Ground (podcast), [Bridging the Rural-Urban Divide](https://commongroundcommittee.org/bridging-the-rural-urban-divide/)
+
+- Vosoughi, Roy and Aral (2018),[The spread of true and false news online](https://www.science.org/doi/10.1126/science.aap9559)
+
+- Hendricks and Vestergaard, Alternative Facts, Misinformation, and Fake News, (Chapter from [Reality Lost](https://link.springer.com/book/10.1007/978-3-030-00813-0)) - *Check Canvas*
+
+
+## 3/9
+
+**Week 9: Spring Break, No class**
+
+
+## 3/16
+
+
+**Week 10: Epistemic Injustice**
+
+Epistemic bubbles and echo chambers are ecosystems of information, with their own internal rules and regulations. They constitute, in some sense, a common ground, at least for those inside them. A common ground, then, can also exclude, and perhaps it needs to exclude in order to include. So what happens when some people---along with their knowledge, evidence, testimony, experience---are excluded? Recently, a number of philosophers within the analytic tradition have theorized about "epistemic injustice"in various forms: testimonial, hermeneutical, oppressive. Long before these discussions in analytic philosophy, one of the foundational texts of post-colonial theory took up the question whether certain voices are systematically excluded from the conversation---and cannot even articulate their position. 
+
+*Essential readings*
+
+- [Week 10 - handout](https://www.marcellodibello.com/commonground/handout/epistemic-injustice)  
+
+- Fricker (2007), Hermeneutical Injustice (Chapter 7 of [Epistemic Injustice](https://academic.oup.com/book/32817)) - *Check Canvas*
+
+- Spivak (1988), [Can the Subaltern Speak?](https://abahlali.org/files/Can_the_subaltern_speak.pdf) (abridged version [here](https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf))
+
+
+*Additional readings and materials*
+
+- Mills (2007), White Ignorance (Chapter 4 of [Black Rights/ White Wrongs
+The Critique of Racial Liberalism](https://academic.oup.com/book/5106)) - *Check Canvas*
+
+- Dotson (2014), [Conceptualizing Epistemic Oppression](https://www.marcellodibello.com/commonground/readings/DotsonEpistOppression.pdf)
+
+- Spiegel (2022), [The Epistemic Injustice of Epistemic Injustice, Part I,](https://social-epistemology.com/2022/09/30/the-epistemic-injustice-of-epistemic-injustice-part-i-thomas-j-spiegel/)
+
+
+## 3/23
+
+
+**Week 11: Overlapping Consensus**
+
+We now turn from the epistemological to the political. Citizens in liberal democracies often hold radically different views about the good life, religion, education, the common good. A question that has shaped political philosophy in the analytic tradition over the last three decades is, how can political deliberations and judicial decisions be carried out---and be legitimate---despite the fact of radical disagreement about matters of values among the citizenry? One answer is that, in the end, reasonable people will share a political common ground, an "overlapping consensus", which makes possible the exercise of public reason and its legitimacy. 
+
+On this view, an important qualification must be made: an overlapping consensus must be sought between reasonable people. Those who are "unreasonable" do not enter the overlapping consensus, and thus are not entitled to pursue objections that may threaten the integrity and legitimacy of public reason. 
+
+**Q&A with Jonathan Quong**
+
+The first part of the class will consist in a Q&A session with [Jonathan Quong](https://dornsife.usc.edu/cf/phil/faculty_display.cfm?Person_ID=1048339), a moral and political philosopher at the University of Southern California whose work on unreasonable citizens is one of the readings assigned for today. *Please come prepared to ask questions.*
+
+
+*Essential readings*
+
+- [Week 11 - handout](https://www.marcellodibello.com/commonground/handout/political-liberalism.html)
+
+- Rawls (1992), The Idea of an Overlapping Consensus and The Idea of Public Reason (lectures IV and VI of [Political Liberalism](http://cup.columbia.edu/book/political-liberalism/9780231130899)) - *Check Canvas*
+
+- Quong (2010), Unreasonable Citizens (Chapter 10 of [Liberalism without Perfection](https://academic.oup.com/book/12006)) - *Check Canvas*
+
+*Additional readings and materials*
+
+- Cohen (2004), [Minimalism About Human Rights](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/evnts/media/j._cohen.minimalism.pdf)
+
+<!---Earlier we discussed the topic of incommensurability from the point of view of language and conceptual schemes. Is there such a thing as value incommesurability? If so, can it be the explanation for the deep disagreements and ideological polarization that plague our political discourse today? As a preliminary step towards addressing this question, it is instructive to acquire a firm grasp of value incommensurability, its nature and scope. 
+--->
+
+
+<!---
+- Broome (2000), [Incommensurable Values](https://philpapers.org/archive/BROIV-3.pdf)
+*Additional readings and materials*
+ - SEP, [Incommensurable Values](https://plato.stanford.edu/entries/value-incommensurable/)
+--->
+
+
+## 3/30
+
+**Second essay due**
+
+
+**Week 12: Self-organization**
+
+The idea of an overlapping consensus presupposes that there is a minimal, essential set of values that we share (or procedures that we endorse), despite deep, widespread disagreement on many issues. But one wonders whether this overlapping consensus exists, and even if it does, one wonders whether it can ever be enough to give legitimacy to political deliberations. Another model suggests we need not worry about whether we have an overlapping consensus. A convergence might emerge, not as a matter of theoretical commitments to shared values, but as a self-organizing order of preferences, behaviors and practices. 
+
+
+*Essential readings*
+
+- [Week 12 - handout](https://www.marcellodibello.com/commonground/handout/self-org.html) 
+
+ -  Gaus (2018), [Self-Organizing Moral Systems: Beyond Social Contract
+Theory](http://www.gaus.biz/Gaus-Self-organizing.pdf)
+
+- Gaus (2018), [The Complexity of a Diverse Moral Order](https://www.law.georgetown.edu/public-policy-journal/wp-content/uploads/sites/23/2018/11/16-S-Complexity-Diverse-Moral-Order.pdf) 
+
+*Additional readings and materials*
+
+- Troitzsch (2018), [Can Lawlike Rules Emerge without the Intervention of Legislators?](https://www.frontiersin.org/articles/10.3389/fsoc.2018.00002/full)
+
+
+## 4/6
+
+
+**Week 13: Individualism and conflict**
+
+The ideal of an overlapping consensus (as well as the idea of a self-organizing convergence) must confront the reality of increasing conflicts, division, partisanship in our political lives. Perhaps, deep structural reasons are the cause, and these cannot be easily overcome by invoking a common ground. A couple of hypothesis are 
+worth exploring here. First, an individualistic, competition-driven market logic that extends everywhere ends up pitting people against each another.  Second, political deliberations are inherently conflictual: friendship can exist only 
+against the background of enmity.
+
+*Essential readings*
+
+- [Week 13 -handout](https://www.marcellodibello.com/commonground/handout/individualism.html) 
+
+-  Hussain (2020), [Pitting People Against Each Other](https://www.researchgate.net/publication/339349346_Pitting_People_Against_Each_Other)
+
+- 
+Mouffe (1993), Politics and the Limits of Liberalism (Chapter 9 of [The Return of the Political](https://www.versobooks.com/books/3145-the-return-of-the-political)) - *Check Canvas*
+
+
+*Additional readings and materials*
+
+
+- Schmitt, The Concept of the Political (in [The Concept of the Political](https://press.uchicago.edu/ucp/books/book/chicago/C/bo5458073.html)) - *Check Canvas*
+
+## 4/13
+
+**Week 14: Trust and Civility**
+
+If we still think that the ideal of an overlapping consensus and public reason are good ones---we might not---the question is how to regain a functioning public reason via targeted interventions. One proposal focuses on reestablishing trust, between people of opposing views and between citizens and public institutions. Another proposal emphasizes the virtue of civility. These proposals are not exclusive, and they both 
+underscore that attitudes toward each other---not only an agreement about content---are essential for a functioning public reason. 
+
+**Q&A with Cheshire Calhoun**
+
+The first part of the class will consist in a Q&A session with [Cheshire Calhoun](https://en.wikipedia.org/wiki/Cheshire_Calhoun), a moral and political philosopher at Arizona State University whose work on the virtue of civility is one of the readings assigned for today. *Please come prepared to ask questions.*
+
+*Essential readings*
+
+- [Week 14 - handout](https://www.marcellodibello.com/commonground/handout/trust-civility.html) 
+
+- Vallier (2019), Moral Peace and Social Trust (Chapter 1) and Public Justification (Chapter 3) of [Must Politics Be War?](https://www.kevinvallier.com/wp-content/uploads/2016/11/MPBW_v2.pdf)
+
+- Calhoun (2000), [The Virtue Of Civility](https://www.marcellodibello.com/commonground/readings/CalhounCivility.pdf)
+
+
+## 4/20
+
+**Week 15: Workshop**
+
+
+Students will workshop their research papers by giving short presentations accompanied by either a handout or slides and followed by Q&A. Each presenter will have 15 minutes to be split between the presentation itself and Q&A at the discretion of the presenter. The list of presenters is below:   
+
+1:30 |  Angela  | title tba
+
+1:45 | Andrew   | *Marked By An X: The Influence of Counterculture to A Better Common Ground*
+
+2:00 | Cole  | *Common Agreement and Endoxa*
+
+2:15 | Georgia   | title tba
+
+2:30 | Kevin   | title tba
+
+*15 minutes break*
+
+3:00 | Nicholas | title tba
+
+3:15 | Paola | *Ethics of Common Ground*
+
+3:30 | Scout | *Contradictory Common Ground*
+
+3:45 |  Vanessa | title tba
+
+4:00 | Yashin | *Against Hermeneutical Justice: The Self-Sufficiency of Being*
+
+
+## 4/27
+
+
+**Third essay or research paper due**
+
+**Week 16: Conclusion**
+
+What have we learned about the common ground? 
+What questions are still left open and 
+what lines of inquiry seemed more promising?
+
+- [Week 16 - handout](https://www.marcellodibello.com/commonground/handout/end.html) 
+
+
+# Title IX 
+
+Title IX is a federal law that provides that no person be excluded on the basis of sex from participation in, be denied benefits of, or be subjected to discrimination under any education program or activity.  Both Title IX and university policy make clear that sexual violence and harassment based on sex is prohibited.  An individual who believes they have been subjected to sexual violence or harassed on the basis of sex can seek support, including counseling and academic support, from the university.  If you or someone you know has been harassed on the basis of sex or sexually assaulted, you can find information and resources at https://sexualviolenceprevention.asu.edu/faqs. 
+
+ 
+
+As a mandated reporter, I am obligated to report any information I become aware of regarding alleged acts of sexual discrimination, including sexual violence and dating violence.  ASU Counseling Services, https://eoss.asu.edu/counseling is available if you wish to discuss any concerns confidentially and privately. ASU online students may access 360 Life Services, https://goto.asuonline.asu.edu/success/online-resources.html.
