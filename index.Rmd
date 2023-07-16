@@ -303,97 +303,78 @@ Greiner and Rubin (2010), [Causal effects of perceived immutable characteristics
 
 
 
-## 2/16
+## 9/26
 
 
-**Week 6: Skepticism, Tradition and Common-sense**
+**Week 6: Race as Bundle of Sticks**
 
-We now turn from logic and argumentation theory to epistemology. <!---Broadly speaking, we  all agree that as we aim to figure out facts about the world, we should gather pertinent evidence, conscientiously assess it and draw conclusions from it. --->
-From an epistemological perspective, it is common ground we should be responsive to evidence if we aim to figure out what the world is like. But the skeptic will ask, why should we be responsive to evidence?
-<!---
-Being responsive to evidence will likely include a set of epistemic rules and practices, such as follow the deliverance of the senses; perform experiments in such-and-such a way; and so.  The problem, however, is that whatever these epistemic rules and practices are, it would be hard to justify them in a non-circular way. This is the skeptical challenge. ---> <!---We might say that evidence is truth-conducive. ---> Scientists themselves have suggested that common rules and practices used to gather, analyze and  draw inferences from evidence more often lead to falsehoods rather than truths. These claims might be exaggerated, but even if they are, the skeptical doubt remains.  For how can we claim that being evidence-responsive is truth-conducive without, in a circular manner, appeal to evidence? 
+We look at the theory of race as a bundle of sticks and the possibility 
+of manipulating other characteristics that may then be used 
+as indicators of the causal role of race.
 
-Instead of attempting to ground our epistemology from first principles, the common ground could include a reference to common-sense and traditions rooted in history. But this would seem a capitulation of reason and would still leave open the question, why should we follow common-sense or tradition in the first place?  Why should that be our common ground? The skeptical challenge persists. 
 
 *Essential readings*
 
-- [Week 6 -handout](https://www.marcellodibello.com/commonground/handout/skepticism.html) 
+- [Week 6 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
 
-- Lynch (2012), Nothing but Dreams and Smoke and Reasons Ends: Tradition and Common Sense (Chapters 3 and 4 of [In Praise of Reason](https://mitpress.mit.edu/9780262526050/in-praise-of-reason/))  - *Check Canvas*
+- Sen and Wasow (2016), [Race as a bundle of sticks: Designs that estimate effects of seemingly immutable characteristics](https://scholar.harvard.edu/files/msen/files/race_causality.pdf)
+
+- Walton and Cohen (2011), [A brief social-belonging intervention improves academic and health outcomes of minority students](https://www.marcellodibello.com/commonground/readings/Walton-BriefSocialBelongingIntervention-2011.pdf)
+
+*Additional readings and materials*
+
+- VanderWeele and Robinson (2014), [On Causal Interpretation of Race in Regressions Adjusting for Confounding and Mediating Variables](https://www.marcellodibello.com/commonground/readings/VanderWeeleRobinson-RaceRegression2024.pdf)
+
+
+
+## 10/3
+
+
+**Week 7: What is Race?**
+
+
+We should switch gears and look at philosophical accounts of race. Admittedly, we cannot talk about whether race is a cause or how we can study the causality of race without asking, what is race? So we need to ask this question now. 
+We'll start with a social constructionist view of race. 
+
+
+*Essential readings*
+
+- [Week 7 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
+
+- Haslanger social construction about race. Use the book “What is Race?” 
+
+- Read the two essays with social constructionists views of race.
+
+*Additional readings and materials*
+
+
+
+## 10/10
+
+
+**Week 8: Fall Break, No class**
+
+
+
+## 10/17
+
+**Week 9: What is Race?**
+
+
+
+*Essential readings*
+
+- [Week 10 - handout](https://www.marcellodibello.com/commonground/handout/epistemic-injustice)  
+
+- Fricker (2007), Hermeneutical Injustice (Chapter 7 of [Epistemic Injustice](https://academic.oup.com/book/32817)) - *Check Canvas*
+
+- Spivak (1988), [Can the Subaltern Speak?](https://abahlali.org/files/Can_the_subaltern_speak.pdf) (abridged version [here](https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf))
 
 
 *Additional readings and materials*
 
 
-- Ioannidis (2005), [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
-
-
-## 2/23
-
-
-**Week 7: Rational Polarization**
-
-The challenge of skepticism stands unanswered, but its significance should not be exaggerated. 
-Perhaps, those who doubt the effectiveness of vaccines or challenge the evidence about climate change are skeptics who  doubt the principles of scientific inquiry. Admittedly, this is a far-fetched explanation for belief polarization. The challenge of skepticism has always been with us. Polarization, instead, is a phenomenon more circumscribed and historically situated.  
-
-Let us assume---optimistically---that people are often willing to engage in an empirically-informed rational inquiry in which they share criteria for assessing the strength of their evidence. <!---So long as this epistemological common ground exists and the inquirers share the same evidence, we should hope that no irredeemable disagreement can emerge. But a lot depends on what we mean by "sharing the same evidence". While two people might share the same "brute" evidence---say, they have access to the same data, documents, readings, etc.---they might interpret it differently. Or the same evidence might be ambiguous and thus invite different interpretations. --->
-And yet, even people who share the same evidence and the same standards for assessing it might end up endorsing radically different positions---a phenomenon that has been called "rational polarization". How widespread or worried we should be about this phenomenon is another matter. Is rational polarization the most plausible explanation for widespread polarization? This is hard to say, but there is empirical evidence that rational polarization plays an important role in explaining actual belief polarization. 
-
-**Q&A with Kevin Dorst**
-
-The first part of the class will consist in a Q&A session with [Kevin Dorst](https://www.kevindorst.com/), a philosopher at the Massachusetts Institute of Technology whose paper on rational polarization is one of the readings assigned for today. *Please come prepared to ask questions.*
-
-
-*Essential readings*
-
--  [Week 7 - handout](https://www.marcellodibello.com/commonground/handout/rational-polarization.html) 
-
-- Kelly (2008), [Disagreement, Dogmatism, and Belief Polarization](http://www.princeton.edu/~tkelly/BF2.pdf)
-
-- Dorst (2022), [Rational Polarization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3918498)
-
-*Additional readings and materials*
-
--  Lord,  Ross, and Lepper (1979), [Biased Assimilation and
-Attitude Polarization](https://www.marcellodibello.com/commonground/readings/BiasedAssim.pdf)
-
--  Gilovich (1991), Seeing What we Expect to See (Chapter 3 of [How We Know What Isn’t So](https://www.simonandschuster.com/books/How-We-Know-What-Isnt-So/Thomas-Gilovich/9780029117064) - *Check Canvas*
-
-
-## 3/2 
-
-**First essay due**
-
-
-**Week 8: Bubbles and Chambers**
-
-Another explanation for belief polarization is that---because of the structure of information cascading on social media---people will have selective access to information and inhabit epistemic bubbles and echo chambers (though the two are different). Echo chambers and bubbles are failures of common ground in the sense that people do not share the same evidence. Given these circumstances, then, belief polarization is inevitable, and in many ways, unsurprising. The cure is simple: escape your epistemic bubble and echo chamber; go talk to those with whom you disagree; etc. As we will see, though, it is much harder to escape an echo chamber than an epistemic bubble. 
-
-*Essential readings*
-
-- [Week 8 - handout](https://www.marcellodibello.com/commonground/handout/bubbles-chambers.html) 
-
-- Nguyen, [Echo Chambers and Epistemic Bubbles](https://www.marcellodibello.com/commonground/readings/ChambersBubbles.pdf)
-
-- Lackey, Disagreement and Belief Dependence: Why Numbers Matter (essay in Christensen & Lackey, [The Epistemology of Disagreement](https://academic.oup.com/book/5080)) - Check Canvas
-
- The Epistemology of Disagreement
-
-*Additional readings and materials*
-
-- Let's Find Common Ground (podcast), [Bridging the Rural-Urban Divide](https://commongroundcommittee.org/bridging-the-rural-urban-divide/)
-
-- Vosoughi, Roy and Aral (2018),[The spread of true and false news online](https://www.science.org/doi/10.1126/science.aap9559)
-
-- Hendricks and Vestergaard, Alternative Facts, Misinformation, and Fake News, (Chapter from [Reality Lost](https://link.springer.com/book/10.1007/978-3-030-00813-0)) - *Check Canvas*
-
-
-## 3/9
-
-**Week 9: Spring Break, No class**
-
-
-## 3/16
+## 10/24
 
 
 **Week 10: Epistemic Injustice**
