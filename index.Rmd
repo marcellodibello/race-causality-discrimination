@@ -419,7 +419,7 @@ Now, if race is socially constructed, how can it be subject to statistical analy
 **Week 11: Race in Racial Discrimination**
 
 
-Since we have introduced the topic of racial discrimination – as opposed to simply studying the causal role race –  it is worth spending time on what discrimination is and how it is measured, and whether standard ways to study discrimination are adequate in capturing the phenomenon. 
+Since we have introduced the topic of racial discrimination – as opposed to simply studying the causal role race –  it is worth spending time on what discrimination is and how it is measured, along with potential pitfalls of standard ways to study discrimination. 
 
 *Essential readings*
 
@@ -452,7 +452,7 @@ as embedded in a complex social structure. This week we examine an idea that is 
 
 - Haslanger (2012), [Oppression: Racial and Other](), chapter 11 of the book *Resisting Reality*, Oxford University Press
 
-- Haslanger (2015), [What is a (social) Structural Explanation?]() 
+- Haslanger (2015), [What Is a (Social) Structural Explanation?]() 
 
 *Additional readings and materials*
 
@@ -466,20 +466,21 @@ as embedded in a complex social structure. This week we examine an idea that is 
 **Week 13: Social Structural Explanation**
 
 
-To what extent can a manipulationist account model the causal role of race in a structural sense? Some think the framework can capture this structural picture. Hoes do such accounts apply to the causal role of race?
+To what extent can a manipulationist account model the causal role of race in a structural sense? Some think the framework can capture this structural picture. But how do such accounts model the causal role of race? This remains largely an open question. 
 
 
 *Essential readings*
 
 
-- Ross (2023), [What Is Social Structural Explanation? A Causal Account](Ross-SsocialStructExplNous-2023 .pdf)
+- Ross (2023), [What Is Social Structural Explanation? A Causal Account](https://www.marcellodibello.com/race-causality-discrimination/readings/Ross-SsocialStructExplNous-2023 .pdf)
 
 
-- Malinsky (2018), [Intervening on structure](Malinski-InterveningStructure-2018.pdf)
+- Malinsky (2018), [Intervening on structure](https://www.marcellodibello.com/race-causality-discrimination/readings/Malinski-InterveningStructure-2018.pdf)
 
 
 *Additional readings and materials*
 
+-  Bright, Malinsky, and  Thompson (2016), [Causally Interpreting Intersectionality Theory](https://www.liamkofibright.com/uploads/4/8/9/8/48985425/causally_interpreting_intersectionality_theory_final.pdf)
 
 
 ## 11/21
