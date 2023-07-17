@@ -113,16 +113,17 @@ Office hours: Thursday after class or by appointment
 
 # Topic
 
-This seminar examines 
+Claims of racial discrimination and structural racism are ubiquitous today. On one hand, studies in the social sciences show that, after controlling for variables other than race, racial disparities still persist in incarceration, health outcomes and wealth. Thus, race appears to be a key variable for explaining racial disparities. On the other, many point out that, again after controlling for variables other than race, the same racial disparities significantly decrease if not subside entirely. Thus, they think the explanatory role of race has been exaggerated. This debate leaves out a crucial question, however. What causal and explanatory role (if any) can race play in the first place? If, as many hold, race is a social construct emerging from the larger fabric of social interactions, does it make sense to isolate it and control for other variables? 
 
+The course aims to untangle the assumptions about the causality of race that inform the ongoing debate about racial discrimination and structural racism. Readings will be drawn from three strands of research: the literature in the social sciences on racial inequalities; philosophical theories of race; the philosophical literature on causality.
 
 
 # Objectives
 
 This course is meant for advanced undergraduates and graduate students. 
 You will become familiar with current debates in philosophy and the social sciences 
-about the nature and study of causality in the social realm, with a focus on 
-questions about race and discrimination. You will sharpen your critical thinking 
+about the nature and study of causality, with a focus on 
+questions about race, causality and discrimination. You will sharpen your critical thinking 
 skills, in reading  and  writing, for the analysis of theoretical concepts and their application to current 
 social and political questions. You will read academic papers in philosophy 
 and the social sciences, and develop an appreciation for their distinctive contribution. 
@@ -131,7 +132,7 @@ and the social sciences, and develop an appreciation for their distinctive contr
 
 Readings and other course materials are available 
 on this website. For readings covered 
-by copyright, please check the Canvas page for this course.  
+by copyright, please check the Canvas page of this course.  
 Course materials are divided into "essential" and "additional". 
 You are only expected to study the essential ones, but I 
 recommend that you have a look at the 
@@ -198,8 +199,8 @@ included in the course materials.
 
 # Handouts 
 
-[Week 1](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) | 
-
+[Week 1] | 
+[Week 2] | etc.
 
 
 # Schedule 
@@ -208,40 +209,50 @@ included in the course materials.
 
 **Week 1: Introduction**
 
+Racial disparities are widely studied and well-known. More difficult is to study 
+the *causal* effects of race on outcomes. For example, in a 2017  [study](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/fryer/files/empirical_analysis_tables_figures.pdf) Harvard economist [Ronald 
+Fryer](https://scholar.harvard.edu/fryer/home) argued that available data show no racial bias again black men in police killings. In fact, Fryer's study showed that 
+black civilians are *less* likely to be killed by the police compared to similarly situated whites.
+Many rejected this conclusion despite the study's meticulously reliance on data and rigorous statistical modeling.
+What makes it so difficult to study the causal effects of race? Are data-driven social sciences inadequate for this task?
+
 *Essential readings*
 
-- [Week 1 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) 
+- Hu (2021), [Race, Policing, and the Limits of Social Science](https://www.bostonreview.net/articles/race-policing-and-the-limits-of-social-science/)
 
+- Hu (2019), [Disparate Causes, Part I](https://www.phenomenalworld.org/analysis/disparate-causes-i/)
 
+*Additional readings and materials*
 
+- Fryer (2017), [An Empirical Analysis of Racial Differences in Police Use of Force](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/fryer/files/empirical_analysis_tables_figures.pdf) 
+(see also the author's [response](https://www.journals.uchicago.edu/doi/abs/10.1086/710977) to critics)
 
 ## 8/29
 
 **Week 2: Causation as Manipulation in Statistics**
 
-How should we understand the nature of causality and how should we study causality? A prominent account in both statistics and philosophy is the so-called *manipulationist account*. This account aims to guide both our philosophical theorizing about the nature of causality, as well as the emprical study of causal effects. 
-This week and the next will be devoted to understanding this manipulationist account. 
+How should we understand the nature of causality and how should we study causality? A prominent account in both statistics and philosophy is the so-called *manipulationist account*. This week and the next will be devoted to understanding this manipulationist account. 
 
 
 *Essential readings*
 
-- [Week 2 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
-
-- Holland (1986), [Statistics and Causal Inference](http://people.umass.edu/~stanek/pdffiles/causal-holland.pdf)
+- Holland (1986), [Statistics and Causal Inference](https://www.marcellodibello.com/race-causality-discrimination/readings/Holland-StatisticsCausalInference-1986.pdf)
 
 *Additional readings and materials*
 
-
+- Pearl (2003), [Statistics and Causal Inference: A Review](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=211680a75afaa0a4130a47530af554ea0de75629)
 
 ##  9/5
 
 
 **Week 3: Causation as Manipulation in Philosophy**
 
+We continue on the same topic as last week, focusing 
+on work by philosophers. 
+
 
 *Essential readings*
 
-- [Week 3 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
 
 - Woodward (2003), Causation and Manipulation, Chapter 2 of Woodward's book *Making Things Happens*, 
 Oxford University Press
@@ -256,21 +267,19 @@ Oxford University Press
 ## 9/12
 
 
-**Week 4: Race and Manipulation: no!**
+**Week 4: Race and Manipulation**
 
-We will now look at the challenges that this manipulationist account of causation faces in investigating the causal role of social categories, in particular, race. A number of authors think that race cannot be a cause. If, as the slogan goes, "no causation without manipulation", then race cannot be a cause insofar as race cannot be manipulated. 
-But isn't this view too radical? Perhaps, race is not 
-a variable that can be manipulated, but it still has a causal role, just like 
-class or gender can well have a causal role.  
+The manipulationist account of causation faces several challenges when it comes to investigating the causal role of social categories, in particular, race. If, as the slogan goes, "no causation without manipulation", then race cannot be a cause insofar as race cannot be manipulated. But isn't this view too radical? Perhaps, race is not 
+a variable that can be manipulated, but it still plays a causal role, just like 
+class or gender can very well have a causal role.  
 
 
 *Essential readings*
 
-- [Week 4 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
 
 - Holland (2003), [Causation and Race](https://www.marcellodibello.com/race-causality-discrimination/readings/Holland-Causation-Race-2003.pdf)
 
-- Marcellesi (2013), Is Race a Cause?
+- Marcellesi (2013), [Is Race a Cause?](https://www.marcellodibello.com/race-causality-discrimination/readings/)
 
 
 *Additional readings and materials*
@@ -282,30 +291,28 @@ class or gender can well have a causal role.
 
 ## 9/19
 
-**Week 5: Race and Manipulation: yes!**
+**Week 5: Signals of Race**
 
-How do social scientists respond to these challenges? We will look at a few examples of studies in sociology and economics that make causal claims about race. In these studies, race (or a signal for race) is still manipulated. Is the manipulationist account, then, secure from objections when it comes to social categories such as race?
+How do social scientists respond to these challenges? We will look at a few examples of studies in sociology and economics that make causal claims about race. In these studies, race (or to be more precise, a variable that is a signal for race) is still manipulated. Is the manipulationist account, then, secure from objections when it comes to social categories such as race?
 
 
 *Essential readings*
 
-- [Week 5 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
+- Pager (2007),  [The Use of Field Experiments for Studies of Employment Discrimination](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/pager/files/annals_pager.pdf) 
 
-- Pager (2007),  [The use of field experiments for studies of employment discrimination: contributions, critiques, and directions for the future](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/pager/files/annals_pager.pdf) 
-
-Greiner and Rubin (2010), [Causal effects of perceived immutable characteristics](https://www.marcellodibello.com/race-causality-discrimination/readings/Greiner-Rubin-Cause-Immutable-2010.pdf)
+- Greiner and Rubin (2010), [Causal Effects of Perceived Immutable Characteristics](https://www.marcellodibello.com/race-causality-discrimination/readings/Greiner-Rubin-Cause-Immutable-2010.pdf)
 
 
 *Additional readings and materials*
 
-- Bertrand and Mullainathan (2004), [Are Emily and Greg more employable than Lakisha and Jamal?](https://cos.gatech.edu/facultyres/Diversity_Studies/Bertrand_LakishaJamal.pdf) 
+- Bertrand and Mullainathan (2004), [Are Emily and Greg More Employable than Lakisha and Jamal?](https://cos.gatech.edu/facultyres/Diversity_Studies/Bertrand_LakishaJamal.pdf) 
 
 
 
 ## 9/26
 
 
-**Week 6: Race as Bundle of Sticks**
+**Week 6: Race as a Bundle of Sticks**
 
 We look at the theory of race as a bundle of sticks and the possibility 
 of manipulating other characteristics that may then be used 
@@ -314,11 +321,9 @@ as indicators of the causal role of race.
 
 *Essential readings*
 
-- [Week 6 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
+- Sen and Wasow (2016), [Race as a Bundle of Sticks](https://scholar.harvard.edu/files/msen/files/race_causality.pdf)
 
-- Sen and Wasow (2016), [Race as a bundle of sticks: Designs that estimate effects of seemingly immutable characteristics](https://scholar.harvard.edu/files/msen/files/race_causality.pdf)
-
-- Walton and Cohen (2011), [A brief social-belonging intervention improves academic and health outcomes of minority students](https://www.marcellodibello.com/race-causality-discrimination/readings/Walton-BriefSocialBelongingIntervention-2011.pdf)
+- Walton and Cohen (2011), [A Brief Social-belonging Intervention Improves Academic and Health Outcomes of Minority Students](https://www.marcellodibello.com/race-causality-discrimination/readings/Walton-BriefSocialBelongingIntervention-2011.pdf)
 
 *Additional readings and materials*
 
@@ -329,20 +334,20 @@ as indicators of the causal role of race.
 ## 10/3
 
 
-**Week 7: What is Race?**
+**Week 7: Race as a Social Construct**
 
 
-We should switch gears and look at philosophical accounts of race. Admittedly, we cannot talk about whether race is a cause or how we can study the causality of race without asking, what is race? So we need to ask this question now. 
-We'll start with a social constructionist view of race. 
+We should switch gears and look at philosophical accounts of race. Admittedly, we cannot talk about whether race is a cause without asking, what is race? So we need to ask this question now. 
+We'll start with social constructionist views of race. 
 
 
 *Essential readings*
 
-- [Week 7 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
 
-- Haslanger social construction about race. Use the book “What is Race?” 
+- Haslanger (2019), Tracing the Sociopolitical Reality of Race, in [What is Race? Four Philosophical Views](https://academic.oup.com/book/34975), Oxford University Press
 
-- Read the two essays with social constructionists views of race.
+- Jeffers (2019), Cultural Contructionism, in [What is Race? Four Philosophical Views](https://academic.oup.com/book/34975), Oxford University Press
+
 
 *Additional readings and materials*
 
@@ -357,192 +362,117 @@ We'll start with a social constructionist view of race.
 
 ## 10/17
 
-**Week 9: What is Race?**
+**Week 9: Race as Real or Unreal**
 
+This week we will look at accounts of race as biologically 
+real and race as a social illusion. 
 
 
 *Essential readings*
 
-- [Week 10 - handout](https://www.marcellodibello.com/race-causality-discrimination/handout/.html)  
+- Spencer (2019), How to Be a Biological Racial Realist, in [What is Race? Four Philosophical Views](https://academic.oup.com/book/34975), Oxford University Press
 
+- Glasgow (2019), Is Race an Illusion or a (Very) Basic Reality?, in [What is Race? Four Philosophical Views](https://academic.oup.com/book/34975), Oxford University Press
 
 
 *Additional readings and materials*
 
+- Mallon (2006), [‘Race': Normative, Not Metaphysical or Semantic](https://www.marcellodibello.com/race-causality-discrimination/readings/Mallon-RaceNormativeMetaphysical-2006.pdf)
 
 ## 10/24
 
 
-**Week 10: Epistemic Injustice**
+**Week 10: Manipulation and Racial Discrimination**
 
-Epistemic bubbles and echo chambers are ecosystems of information, with their own internal rules and regulations. They constitute, in some sense, a common ground, at least for those inside them. A common ground, then, can also exclude, and perhaps it needs to exclude in order to include. So what happens when some people---along with their knowledge, evidence, testimony, experience---are excluded? Recently, a number of philosophers within the analytic tradition have theorized about "epistemic injustice"in various forms: testimonial, hermeneutical, oppressive. Long before these discussions in analytic philosophy, one of the foundational texts of post-colonial theory took up the question whether certain voices are systematically excluded from the conversation---and cannot even articulate their position. 
-
-*Essential readings*
-
-- [Week 10 - handout](https://www.marcellodibello.com/commonground/handout/epistemic-injustice)  
-
-- Fricker (2007), Hermeneutical Injustice (Chapter 7 of [Epistemic Injustice](https://academic.oup.com/book/32817)) - *Check Canvas*
-
-- Spivak (1988), [Can the Subaltern Speak?](https://abahlali.org/files/Can_the_subaltern_speak.pdf) (abridged version [here](https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf))
-
-
-*Additional readings and materials*
-
-- Mills (2007), White Ignorance (Chapter 4 of [Black Rights/ White Wrongs
-The Critique of Racial Liberalism](https://academic.oup.com/book/5106)) - *Check Canvas*
-
-- Dotson (2014), [Conceptualizing Epistemic Oppression](https://www.marcellodibello.com/commonground/readings/DotsonEpistOppression.pdf)
-
-- Spiegel (2022), [The Epistemic Injustice of Epistemic Injustice, Part I,](https://social-epistemology.com/2022/09/30/the-epistemic-injustice-of-epistemic-injustice-part-i-thomas-j-spiegel/)
-
-
-## 3/23
-
-
-**Week 11: Overlapping Consensus**
-
-We now turn from the epistemological to the political. Citizens in liberal democracies often hold radically different views about the good life, religion, education, the common good. A question that has shaped political philosophy in the analytic tradition over the last three decades is, how can political deliberations and judicial decisions be carried out---and be legitimate---despite the fact of radical disagreement about matters of values among the citizenry? One answer is that, in the end, reasonable people will share a political common ground, an "overlapping consensus", which makes possible the exercise of public reason and its legitimacy. 
-
-On this view, an important qualification must be made: an overlapping consensus must be sought between reasonable people. Those who are "unreasonable" do not enter the overlapping consensus, and thus are not entitled to pursue objections that may threaten the integrity and legitimacy of public reason. 
-
-**Q&A with Jonathan Quong**
-
-The first part of the class will consist in a Q&A session with [Jonathan Quong](https://dornsife.usc.edu/cf/phil/faculty_display.cfm?Person_ID=1048339), a moral and political philosopher at the University of Southern California whose work on unreasonable citizens is one of the readings assigned for today. *Please come prepared to ask questions.*
+Having clarified what we could mean by race, let's return to our original question.  How can we study the causal effects of race. We focus in particular on racial discrimination, one crucial way in which race can have a causal effect. 
+If race is socially constructed, then how can it be subject to statistical analysis by manipulating race as a variable or controlling for other variables?
 
 
 *Essential readings*
 
-- [Week 11 - handout](https://www.marcellodibello.com/commonground/handout/political-liberalism.html)
+- Kohler-Hausmann (2018), [Eddie Murphy and the Dangers of Counterfactual Causal Thinking about Detecting Racial Discrimination](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1374&context=nulr)
 
-- Rawls (1992), The Idea of an Overlapping Consensus and The Idea of Public Reason (lectures IV and VI of [Political Liberalism](http://cup.columbia.edu/book/political-liberalism/9780231130899)) - *Check Canvas*
+- Naftali Weinberger (2022), [Signal Manipulation and the Causal Analysis of Racial Discrimination](https://www.marcellodibello.com/race-causality-discrimination/readings/Signal-Manipulation-Causal-Race-2023.pdf)
 
-- Quong (2010), Unreasonable Citizens (Chapter 10 of [Liberalism without Perfection](https://academic.oup.com/book/12006)) - *Check Canvas*
 
 *Additional readings and materials*
 
-- Cohen (2004), [Minimalism About Human Rights](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/evnts/media/j._cohen.minimalism.pdf)
+- (2004), [Causal Inference and the Assessment of Racial Discrimination](https://nap.nationalacademies.org/read/10887/chapter/9), Chapter 5 of *Measuring Racial Discrimination*, The National Academies Press
 
-<!---Earlier we discussed the topic of incommensurability from the point of view of language and conceptual schemes. Is there such a thing as value incommesurability? If so, can it be the explanation for the deep disagreements and ideological polarization that plague our political discourse today? As a preliminary step towards addressing this question, it is instructive to acquire a firm grasp of value incommensurability, its nature and scope. 
---->
+-  Barocas,  Hardt and Narayanan (2023)
+[Causality](https://fairmlbook.org/causal.html), especially section “Counterfactuals in the law”, Chapter 5 of [Fairness and Machine Learning](https://fairmlbook.org/)
 
 
-<!---
-- Broome (2000), [Incommensurable Values](https://philpapers.org/archive/BROIV-3.pdf)
+
+## 10/31
+
+
+**Week 11**
+
+
+
+
+*Essential readings*
+
+
+
 *Additional readings and materials*
- - SEP, [Incommensurable Values](https://plato.stanford.edu/entries/value-incommensurable/)
---->
 
 
-## 3/30
+
+## 11/07
 
 **Second essay due**
 
 
-**Week 12: Self-organization**
+**Week 12**
 
-The idea of an overlapping consensus presupposes that there is a minimal, essential set of values that we share (or procedures that we endorse), despite deep, widespread disagreement on many issues. But one wonders whether this overlapping consensus exists, and even if it does, one wonders whether it can ever be enough to give legitimacy to political deliberations. Another model suggests we need not worry about whether we have an overlapping consensus. A convergence might emerge, not as a matter of theoretical commitments to shared values, but as a self-organizing order of preferences, behaviors and practices. 
 
 
 *Essential readings*
 
-- [Week 12 - handout](https://www.marcellodibello.com/commonground/handout/self-org.html) 
 
- -  Gaus (2018), [Self-Organizing Moral Systems: Beyond Social Contract
-Theory](http://www.gaus.biz/Gaus-Self-organizing.pdf)
-
-- Gaus (2018), [The Complexity of a Diverse Moral Order](https://www.law.georgetown.edu/public-policy-journal/wp-content/uploads/sites/23/2018/11/16-S-Complexity-Diverse-Moral-Order.pdf) 
+ 
 
 *Additional readings and materials*
 
-- Troitzsch (2018), [Can Lawlike Rules Emerge without the Intervention of Legislators?](https://www.frontiersin.org/articles/10.3389/fsoc.2018.00002/full)
+
+## 11/14
 
 
-## 4/6
+**Week 13**
 
-
-**Week 13: Individualism and conflict**
-
-The ideal of an overlapping consensus (as well as the idea of a self-organizing convergence) must confront the reality of increasing conflicts, division, partisanship in our political lives. Perhaps, deep structural reasons are the cause, and these cannot be easily overcome by invoking a common ground. A couple of hypothesis are 
-worth exploring here. First, an individualistic, competition-driven market logic that extends everywhere ends up pitting people against each another.  Second, political deliberations are inherently conflictual: friendship can exist only 
-against the background of enmity.
 
 *Essential readings*
 
-- [Week 13 -handout](https://www.marcellodibello.com/commonground/handout/individualism.html) 
 
--  Hussain (2020), [Pitting People Against Each Other](https://www.researchgate.net/publication/339349346_Pitting_People_Against_Each_Other)
-
-- 
-Mouffe (1993), Politics and the Limits of Liberalism (Chapter 9 of [The Return of the Political](https://www.versobooks.com/books/3145-the-return-of-the-political)) - *Check Canvas*
 
 
 *Additional readings and materials*
 
 
-- Schmitt, The Concept of the Political (in [The Concept of the Political](https://press.uchicago.edu/ucp/books/book/chicago/C/bo5458073.html)) - *Check Canvas*
 
-## 4/13
+## 11/21
 
-**Week 14: Trust and Civility**
-
-If we still think that the ideal of an overlapping consensus and public reason are good ones---we might not---the question is how to regain a functioning public reason via targeted interventions. One proposal focuses on reestablishing trust, between people of opposing views and between citizens and public institutions. Another proposal emphasizes the virtue of civility. These proposals are not exclusive, and they both 
-underscore that attitudes toward each other---not only an agreement about content---are essential for a functioning public reason. 
-
-**Q&A with Cheshire Calhoun**
-
-The first part of the class will consist in a Q&A session with [Cheshire Calhoun](https://en.wikipedia.org/wiki/Cheshire_Calhoun), a moral and political philosopher at Arizona State University whose work on the virtue of civility is one of the readings assigned for today. *Please come prepared to ask questions.*
-
-*Essential readings*
-
-- [Week 14 - handout](https://www.marcellodibello.com/commonground/handout/trust-civility.html) 
-
-- Vallier (2019), Moral Peace and Social Trust (Chapter 1) and Public Justification (Chapter 3) of [Must Politics Be War?](https://www.kevinvallier.com/wp-content/uploads/2016/11/MPBW_v2.pdf)
-
-- Calhoun (2000), [The Virtue Of Civility](https://www.marcellodibello.com/commonground/readings/CalhounCivility.pdf)
+**Week 14:  Workshop**
 
 
-## 4/20
+Students will workshop their research papers by giving short presentations accompanied by either a handout or slides and followed by Q&A. Each presenter will have 15 minutes to be split between the presentation itself and Q&A at the discretion of the presenter. The list of presenters is below.  
 
-**Week 15: Workshop**
-
-
-Students will workshop their research papers by giving short presentations accompanied by either a handout or slides and followed by Q&A. Each presenter will have 15 minutes to be split between the presentation itself and Q&A at the discretion of the presenter. The list of presenters is below:   
-
-1:30 |  Angela  | title tba
-
-1:45 | Andrew   | *Marked By An X: The Influence of Counterculture to A Better Common Ground*
-
-2:00 | Cole  | *Common Agreement and Endoxa*
-
-2:15 | Georgia   | title tba
-
-2:30 | Kevin   | title tba
-
-*15 minutes break*
-
-3:00 | Nicholas | title tba
-
-3:15 | Paola | *Ethics of Common Ground*
-
-3:30 | Scout | *Contradictory Common Ground*
-
-3:45 |  Vanessa | title tba
-
-4:00 | Yashin | *Against Hermeneutical Justice: The Self-Sufficiency of Being*
+Workshop details TBA. 
 
 
-## 4/27
 
+## 11/28
 
 **Third essay or research paper due**
 
-**Week 16: Conclusion**
+**Week 15: Conclusion**
 
-What have we learned about the common ground? 
+What have we learned about race, causality and discrimination?
 What questions are still left open and 
 what lines of inquiry seemed more promising?
 
-- [Week 16 - handout](https://www.marcellodibello.com/commonground/handout/end.html) 
 
 
 # Title IX 
