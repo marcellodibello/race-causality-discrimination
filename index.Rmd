@@ -275,10 +275,9 @@ Oxford University Press
 
 The manipulationist account of causation faces several challenges when it comes to investigating the causal role of social categories, in particular, race. The main challenge is that 
 race cannot be a cause insofar as race cannot be manipulated. 
-And yet, even if race is not 
-a variable that can be manipulated, it still plays a causal role, just like 
-class or gender can very well have a causal role. So, perhaps, the slogan 
-"no causation without manipulation"  is overly restrictive. 
+And yet, even if race is not a variable that can be manipulated, it could still play a causal role, just like 
+class or gender can have a causal role. The slogan 
+"no causation without manipulation", then, seems overly restrictive. 
 
 
 *Essential readings*
@@ -303,7 +302,7 @@ class or gender can very well have a causal role. So, perhaps, the slogan
 
 **Week 5: Signals of Race**
 
-How do social scientists respond to these challenges? We will look at a few examples of studies in sociology and economics that make causal claims about race. In these studies, race (or to be more precise, a variable that is a signal for race) is still manipulated. Is the manipulationist account, then, secure from objections when it comes to social categories such as race?
+How do social scientists respond to these challenges? We will look at a few examples of studies in sociology and economics that make causal claims about race. In these studies, race (or to be more precise, a variable that is an indicator of race) is still manipulated. Is the manipulationist account, then, secure from objections when it comes to social categories such as race?
 
 
 *Essential readings*
@@ -422,7 +421,7 @@ What is discrimination and how is it measured?
 **Week 11: Race in Racial Discrimination**
 
 
-Now, if race is socially constructed, how can it be subject to statistical analysis by manipulating it as a variable or controlling for other variables? What are the pitfalls of standard ways to study discrimination? 
+Now, if race is socially constructed, how can it be subject to statistical analysis by manipulating it as a variable or controlling for other variables? What are the pitfalls of this standard way of studying discrimination? 
 
 *Essential readings*
 
@@ -445,7 +444,8 @@ Now, if race is socially constructed, how can it be subject to statistical analy
 **Week 12: Race and Social Structure**
 
 Instead of thinking of race as a single variable, race can be thought of
-as embedded in a complex social structure. This week we examine an idea that is often mentioned, even in the mainstream media, namely "structural injustice". 
+as embedded in a complex social structure. This week we examine an idea that 
+is often mentioned, even in the mainstream media, namely "structural injustice". 
 
 
 *Essential readings*
