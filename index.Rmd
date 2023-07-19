@@ -125,7 +125,7 @@ The course aims to untangle the assumptions about the causality of race that inf
 This course is meant for advanced undergraduates and graduate students. 
 You will become familiar with current debates in philosophy and the social sciences 
 about the nature and study of causality, with a focus on 
-questions about race, causality and discrimination. You will sharpen your critical thinking 
+questions about race and discrimination. You will sharpen your critical thinking 
 skills, in reading  and  writing, for the analysis of theoretical concepts and their application to current 
 social and political questions. You will read academic papers in philosophy 
 and the social sciences, and develop an appreciation for their distinctive contribution. 
@@ -148,7 +148,7 @@ or two weeks.
 ## Participation
 
 Please attend class regularly and participate 
-(**10% of our grade**). This is a "seminar style" course. You are 
+(**10% of your grade**). This is a "seminar style" course. You are 
 expected to take an active role in the discussions. Please study the assigned 
 materials **before class** and be ready to discuss them. 
 
