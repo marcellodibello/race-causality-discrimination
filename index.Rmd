@@ -213,7 +213,7 @@ included in the course materials.
 
 Racial disparities are widely studied and well-known. More difficult is to study 
 the *causal* effects of race on outcomes. For example, in a 2017  [study](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/fryer/files/empirical_analysis_tables_figures.pdf) Harvard economist [Ronald 
-Fryer](https://scholar.harvard.edu/fryer/home) argued that available data show no racial bias again black men in police killings. In fact, Fryer's study showed that 
+Fryer](https://scholar.harvard.edu/fryer/home) argued that available data show no racial bias against black men in police killings. In fact, Fryer's study showed that 
 black civilians are *less* likely to be killed by the police compared to similarly situated whites.
 Many rejected this conclusion despite the study's meticulously reliance on data and rigorous statistical modeling.
 What makes it so difficult to study the causal effects of race? Are data-driven social sciences inadequate for this task?
