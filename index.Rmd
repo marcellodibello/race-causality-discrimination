@@ -300,7 +300,7 @@ class or gender can have a causal role. The slogan
 **First essay due**
 
 
-**Week 5: Signals of Race**
+**Week 5: Indicators of Race**
 
 How do social scientists respond to these challenges? We will look at a few examples of studies in sociology and economics that make causal claims about race. In these studies, race (or to be more precise, a variable that is an indicator of race) is still manipulated. Is the manipulationist account, then, secure from objections when it comes to social categories such as race?
 
