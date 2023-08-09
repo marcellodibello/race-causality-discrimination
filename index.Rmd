@@ -304,12 +304,15 @@ class or gender can have a causal role. The slogan
 
 How do social scientists respond to these challenges? We will look at a few examples of studies in sociology and economics that make causal claims about race. In these studies, race (or to be more precise, a variable that is an indicator of race) is still manipulated. Is the manipulationist account, then, secure from objections when it comes to social categories such as race?
 
+**Q&A with Lily Hu**
+
+The last part of the class will consist in a Q&A session with [Lily Hu](https://scholar.google.com/citations?user=oWI7EukAAAAJ&hl=en), a philosopher at Yale interested in how the social sciences study the causal effects of race. Lily is the author of one of the readings assigned for today.
 
 *Essential readings*
 
-- Pager (2007),  [The Use of Field Experiments for Studies of Employment Discrimination](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/pager/files/annals_pager.pdf) 
-
 - Hu (2002), Interventionist Social Causes: The Case of Race and Sex, Chapter 2 of [*Causation in the Social World*](https://www.marcellodibello.com/race-causality-discrimination/readings/Hu-CausalitySocial2022.pdf)
+
+- Pager (2007),  [The Use of Field Experiments for Studies of Employment Discrimination](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/pager/files/annals_pager.pdf) 
 
 *Additional readings and materials*
 
@@ -350,6 +353,10 @@ as indicators of the causal role of race.
 
 
 It is time to examine philosophical accounts of race. Admittedly, we cannot talk about whether race is a cause without asking, what is race? So we ask this question now. We'll start with social constructionist views of race. 
+
+**Q&A with Sally Haslanger**
+
+The first part of the class will consist in a Q&A session with Sally Haslanger, a philosopher at Massachusetts Institute of Technology interested in social practices, social structure, structural explanation with an emphasis on the materiality of social practices and the role of ideologyn. Sally is the author of one of the readings assigned for today.
 
 
 *Essential readings*
@@ -466,6 +473,10 @@ is often mentioned, even in the mainstream media, namely "structural injustice".
 
 
 To what extent can a manipulationist account of causality model the causal role of race in a structural sense? Some think this framework can capture the structural picture. How do such accounts model the causal (structural?) role of race? 
+
+**Q&A with Lauren Ross**
+
+The first part of the class will consist in a Q&A session with [Lauren Ross](https://sites.socsci.uci.edu/~rossl/), a philosopher at University of California, Irvine interested in causal reasoning and the nature of explanation. Lauren is the author of one of the readings assigned for today.
 
 
 *Essential readings*
