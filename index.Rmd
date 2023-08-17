@@ -115,7 +115,7 @@ Office hours: Tuesday after class or by appointment
 
 # Topic
 
-Claims of racial discrimination and structural racism are ubiquitous today. On one hand, studies in the social sciences show that, after controlling for variables other than race, racial disparities still persist in incarceration, health outcomes and wealth. Thus, race appears to be a key variable for explaining racial disparities. On the other, many point out that, again after controlling for variables other than race, the same racial disparities significantly decrease. Thus, they think that the explanatory role of race has been exaggerated. This debate leaves out a crucial question, however. What causal and explanatory role (if any) can race play in the first place? If, as many hold, race is a social construct emerging from the fabric of social interactions, does it make sense to isolate it and control for other variables? 
+Claims of racial discrimination and structural racism are ubiquitous today. On one hand, studies in the social sciences show that, after controlling for variables other than race, racial disparities still persist in incarceration, health outcomes and wealth. Thus, race appears to be a key variable for explaining racial disparities. On the other hand, many point out that, again after controlling for variables other than race, the same racial disparities significantly decrease. Thus, they think that the explanatory role of race has been exaggerated. This debate leaves out a crucial question, however. What causal and explanatory role (if any) can race play in the first place? If, as many hold, race is a social construct emerging from the fabric of social interactions, does it make sense to isolate it and control for other variables? 
 
 The course aims to untangle the assumptions about the causality of race that inform the ongoing debate about racial discrimination and structural racism. Readings will be drawn from the literature in the social sciences on racial inequalities, the statistical and philosophical literature on causality, and the philosophical literature on theories of race. 
 
@@ -126,9 +126,8 @@ This course is meant for advanced undergraduates and graduate students.
 You will become familiar with current debates in philosophy and the social sciences 
 about the nature and study of causality, with a focus on 
 questions about race and discrimination. You will sharpen your critical thinking 
-skills, in reading  and  writing, for the analysis of theoretical concepts and their application to current 
-social and political questions. You will read academic papers in philosophy 
-and the social sciences, and develop an appreciation for their distinctive contribution. 
+skills, in reading  and  writing, for the analysis of theoretical concepts and their application to current social and political questions. You will read academic papers in philosophy 
+and the social sciences, and develop an appreciation for their distinctive contributions. 
 
 # Course Materials
 
@@ -183,7 +182,7 @@ Your essay should begin with a careful theoretical summary of the key ideas in t
 **2**. After doing independent research, collect and summarize a **case study** that illustrates the challenges of
 investigating the causal role of race. The first part of your essay (1-2 pages) should describe your case study. Topics for your case study could include, but are not limited to, health care, criminal justice, education, hiring.  The second part (3-4 pages) should draw from the readings on the philosophy of race. 
 
-**3**. Write a **philosophical argumentative essay** that examines the topic "Philosophical Challenges to the Study of Racial Discrimination". In examining this topic, you should draw from the course readings on racial discrimination. You may (but need not to) build on the case study you discussed in your second essay.  Your essay can be primarily negative, say you argue that the challenges are insurmountable. Your essay can also be more positive, say you describe the challenges and propose ways to address them. 
+**3**. Write a **philosophical argumentative essay** that examines the topic "Philosophical Challenges to the Study of Racial Discrimination". In examining this topic, you should draw from the course readings on racial discrimination. You may (but need not) build on the case study you discussed in your second essay.  Your essay can be primarily negative, e.g., you argue that the challenges are insurmountable. Your essay can also be more positive, e.g., you describe the challenges and propose ways to address them. 
 
 
 ### Research paper 
@@ -211,7 +210,7 @@ included in the course materials.
 
 **Week 1: Introduction**
 
-Racial disparities are widely studied and well-known. More difficult is to study 
+Racial disparities are well-known and widely studied. However, it is more difficult to study 
 the *causal* effects of race on outcomes. For example, in a 2017  [study](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/fryer/files/empirical_analysis_tables_figures.pdf) Harvard economist [Ronald 
 Fryer](https://scholar.harvard.edu/fryer/home) argued that available data show no racial bias against black men in police killings. In fact, Fryer's study showed that 
 black civilians are *less* likely to be killed by the police compared to similarly situated white civilians.
