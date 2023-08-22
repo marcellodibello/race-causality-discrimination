@@ -218,6 +218,10 @@ What makes it so difficult to study the causal effects of race? Are data-driven 
 
 *Essential readings*
 
+ 
+- [Handout - Week 1](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) 
+
+
 - Hu (2021), [Race, Policing, and the Limits of Social Science](https://www.bostonreview.net/articles/race-policing-and-the-limits-of-social-science/)
 
 - Hu (2019), [Disparate Causes, Part I](https://www.phenomenalworld.org/analysis/disparate-causes-i/)
