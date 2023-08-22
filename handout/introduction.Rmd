@@ -22,14 +22,12 @@ body{ /* Normal  */
 </style>
 
 
-The central questions of this course are: What causal role, if any, does race play? How should the social sciences, such as sociology and economics, study the causal role of race? 
+The central questions of this course are: What causal role, if any, does race play? How should the social sciences, such as sociology and economics, study the causal role of race^[The standard approach is to identify a racial disparity in the raw data, e.g., the raw data shows that the rate of police stops differs across races. If, after controlling for several variables other than race, the disparity does not disappear, race is thought to be a plausible (causal) variable that explains the disparity. The Fryer's paper on racial disparities in police shootings discussed below is an example of this approach.]? 
 In what way can race be considered a cause? In order to address these questions, we will examine the philosophical and statistical literature on causality, as well as the literature on theories of race. 
 
-Talks of race as a cause are ubiquitous today. Claims of racial discrimination in hiring, for example, are allegations that race played a causal role in determining the hiring decision, and that this causal influence was 
-inappropriate and unjustified. But again, in what way does race play a causal role 
+Talks of race as a cause are ubiquitous today. Claims of racial discrimination in hiring, for example, are allegations that race played a causal role in determining the hiring decision, and that this causal influence was inappropriate and unjustified. But again, in what way does race play a causal role 
 in hiring decisions? Understanding the causal role of race can also help to clarify discussions about structural racism. How can social structures be causes and what role does race play within 
 these social structures?  
-
 
 
 
@@ -137,7 +135,7 @@ We will discuss this critique in detail later in the semester.
 For the time being, here is a succinct statement 
 of the problem:
 
->  If, as the social constructivist account suggests, race is a social category constituted by a set of social practices, institutions, norms, expectations, and so on, then to speak of a decision as being "directly caused" by race white or race black is incoherent. In other words, ... [to think of] race as a singular node that independently causes downstream effects, or ... [to see] race as something that can be isolated from confounders and mediators such as "socioeconomic status" or "high school performance" rests upon an incorrect theory of *what race is*--and why it matters in our society.^[Lily Hu (2019), Disparate Causes, pt. I, *Phenomenal World*.]
+>  If, as the social constructivist account suggests, race is a social category constituted by a set of social practices, institutions, norms, expectations, and so on, then to speak of a decision as being "directly caused" by race white or race black is incoherent. In other words, ... [to think of] race as a singular node that independently causes downstream effects, or ... [to see] race as something that can be isolated from confounders and mediators such as "socioeconomic status" or "high school performance" rests upon an incorrect theory of *what race is*--and why it matters in our society.^[Hu (2019), Disparate Causes, pt. I, *Phenomenal World*.]
 
 \noindent
 So, again, in order to understand (and adjudicate) claims of racial 
