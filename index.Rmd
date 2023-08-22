@@ -200,8 +200,7 @@ included in the course materials.
 
 # Handouts 
 
-[Week 1] | 
-[Week 2] | etc.
+[Week 1](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) 
 
 
 # Schedule 
