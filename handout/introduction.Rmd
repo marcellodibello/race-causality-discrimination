@@ -2,8 +2,8 @@
 title: "[Race Causality Discrimination](https://www.marcellodibello.com/race-causality-discrimination/) -- Introduction"
 author: "Marcello Di Bello - ASU - Fall 2023 - Week #1"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
@@ -124,7 +124,7 @@ on the basis of race? A plausible answer is in the form of a counterfactual test
 > Had the candidate been of a difference race, the hiring decision would have been different. 
 
 If the counterfactual is true, then there is racial discrimination. 
-If the counterfactual is false, there is no racial discrimination. It is difficult to operationalize the counterfactual empirically. Instead of race itself, studies will use indicators of race that can be manipulated empirically. Audit studies, for example, have shown that by changing the last name on otherwise identical resumes the probability of a callback changes.^[see, for example, the paper  Bertrand and  Mullainathan (2004), Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination, *The American Economic Review*, 94(4). We will discuss audit studies more in detail later in the course.] This result can be interpreted as evidence of racial discrimination in hiring decisions, so long as a candidate's last name tracks the candidate's race. 
+If the counterfactual is false, there is no racial discrimination. It is difficult to operationalize the counterfactual empirically. Instead of race itself, studies will use indicators of race that can be manipulated empirically. Audit studies, for example, have shown that by changing the last name on otherwise identical resumes the probability of a callback changes.^[See, for example, the paper  Bertrand and  Mullainathan (2004), Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination, *The American Economic Review*, 94(4). We will discuss audit studies more in detail later in the course.] This result can be interpreted as evidence of racial discrimination in hiring decisions, so long as a candidate's last name tracks the candidate's race. 
 
 This counterfactual approach, however, faces a difficulty. It is incompatible 
 with a popular view about race, that is, race as a social construct.
