@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  21 AUG 2023 18:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  21 AUG 2023 22:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -657,50 +657,50 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-107.
+106.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-107.
+106.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-107.
+106.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-107.
+106.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-107.
+106.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 107.
+(Font)              scaled to size 10.42007pt on input line 106.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 107.
+(Font)              scaled to size 7.91925pt on input line 106.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 107.
+(Font)              scaled to size 6.25204pt on input line 106.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 107.
+(Font)              scaled to size 10.42007pt on input line 106.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 107.
+(Font)              scaled to size 7.91925pt on input line 106.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 107.
+(Font)              scaled to size 6.25204pt on input line 106.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 107.
+(Font)              scaled to size 8.33606pt on input line 106.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 107.
+(Font)              scaled to size 5.21004pt on input line 106.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 107.
+(Font)              scaled to size 8.33606pt on input line 106.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 107.
+(Font)              scaled to size 5.21004pt on input line 106.
 
 LaTeX Warning: Marginpar on page 1 moved.
 
@@ -710,7 +710,7 @@ LaTeX Warning: Marginpar on page 1 moved.
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<disparity-civilians.png, id=23, 284.06125pt x 683.55376pt>
+<disparity-civilians.png, id=27, 284.06125pt x 683.55376pt>
 File: disparity-civilians.png Graphic file (type png)
 <use disparity-civilians.png>
 Package pdftex.def Info: disparity-civilians.png  used on input line 164.
@@ -726,7 +726,7 @@ LaTeX Warning: Marginpar on page 2 moved.
 LaTeX Warning: Marginpar on page 3 moved.
 
 
-Overfull \hbox (7.32982pt too wide) in paragraph at lines 237--246
+Overfull \hbox (7.32982pt too wide) in paragraph at lines 239--248
 []\T1/pplj/m/n/10 Now, if the con-clu-sion we draw from em-pir-i-cal data are a
 ssumption- 
  []
@@ -739,13 +739,13 @@ LaTeX Warning: Marginpar on page 3 moved.
 LaTeX Warning: Marginpar on page 4 moved.
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 313.
+(Font)              scaled to size 9.37807pt on input line 314.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 313.
+(Font)              scaled to size 7.29405pt on input line 314.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 313.
+(Font)              scaled to size 9.37807pt on input line 314.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 313.
+(Font)              scaled to size 7.29405pt on input line 314.
 
 LaTeX Warning: Marginpar on page 4 moved.
 
@@ -756,25 +756,25 @@ Package bibentry Warning: You have used \nobibliography*
 
 [4] (./introduction.aux)
 Package rerunfilecheck Info: File `introduction.out' has not changed.
-(rerunfilecheck)             Checksum: 3336EB9F6603159E97565CF61654BC49;535.
+(rerunfilecheck)             Checksum: 20BEDD537390D85100DB0ED8F0F2654F;755.
  ) 
 Here is how much of TeX's memory you used:
- 13069 strings out of 478994
- 189873 string characters out of 5858184
- 525967 words of memory out of 5000000
- 30217 multiletter control sequences out of 15000+600000
- 468464 words of font info for 126 fonts, out of 8000000 for 9000
+ 13063 strings out of 478994
+ 189778 string characters out of 5858184
+ 525951 words of memory out of 5000000
+ 30214 multiletter control sequences out of 15000+600000
+ 464025 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,11n,105p,351b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 105i,11n,105p,313b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2
 021/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on introduction.pdf (4 pages, 244596 bytes).
+Output written on introduction.pdf (4 pages, 244604 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  11 named destinations out of 1000 (max. 500000)
- 1046 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1054 words of extra memory for PDF output out of 10000 (max. 10000000)
 

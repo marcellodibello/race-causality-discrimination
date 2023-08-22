@@ -2,8 +2,8 @@
 title: "[Race Causality Discrimination](https://www.marcellodibello.com/race-causality-discrimination/) -- Introduction"
 author: "Marcello Di Bello - ASU - Fall 2023 - Week #1"
 output:
-  tufte::tufte_handout: default
   tufte::tufte_html: default
+  tufte::tufte_handout: default
 ---
 
 
@@ -22,23 +22,23 @@ body{ /* Normal  */
 </style>
 
 
-The central questions of this course are: What causal role, if any, does race play in explaining individual behavior and societal arrangements? How should the social sciences, such as sociology and economics, study the causal role of race? 
+The central questions of this course are: What causal role, if any, does race play? How should the social sciences, such as sociology and economics, study the causal role of race? 
 In what way can race be considered a cause? In order to address these questions, we will examine the philosophical and statistical literature on causality, as well as the literature on theories of race. 
 
 Talks of race as a cause are ubiquitous today. Claims of racial discrimination in hiring, for example, are allegations that race played a causal role in determining the hiring decision, and that this causal influence was 
-inappropriate and unjustified. But again, in what way does race play a cause role 
+inappropriate and unjustified. But again, in what way does race play a causal role 
 in hiring decisions? Understanding the causal role of race can also help to clarify discussions about structural racism. How can social structures be causes and what role does race play within 
 these social structures?  
 
 
 
 
-# Case Study: Ronald Fryer on police use of force
+# Case Study: Fryer on police use of force
 
 
 Ronald Fryer, a Harvard economist, wrote a paper on racial differences in police use of force. The paper came out in 2017 (though it was only published in 2019) and was widely discussed, even in mainstream media such as the *New York Times*.^[Fryer (2019), An Empirical Analysis of Racial Differences in Police Use of Force, *Journal of Political Economy*, 127(3). See the 2016 *New York Times* piece titled 'Surprising new evidence shows bias in police use of force but not in shootings'.] Based on empirical data, the paper made two central claims. 
 
-The first claim is that there is racial bias in non-lethal use force by the police. More specifically:
+The first claim: there is racial bias in non-lethal use of force by the police. More specifically:
 
 > Using data on police interactions from NYC's Stop and Frisk program, we demonstrate that on non-lethal uses
 of force – putting hands on civilians (which includes slapping or grabbing) or pushing individuals
@@ -54,11 +54,13 @@ and Frisk data, both in terms of whether or not any force is used and the intens
 the estimated racial differences are significantly larger ... the odds ratio is 2.769 for blacks and 1.818 for
 Hispanics. (p. 4)
 
-These findings are, in many ways, are unsurprising.^[Note that different databases show different degrees of racial bias. Fryer's paper considers a number of different explanations, one of them being that one dataset supplied the police perspective while the other supplied the civilian perspective.] The second claim of the paper, 
-however, is more surprising: there is no racial bias in lethal use force by the police. 
+These findings are, in many ways, are unsurprising.^[Note that different databases show different degrees of racial bias. Fryer's paper considers a number of different explanations, one of them being that one dataset supplied the police perspective while the other supplied the civilian perspective.] 
+
+The second claim of the paper, 
+however, is more surprising: there is no racial bias in lethal use of force by the police. 
 The data revealed no racial bias in police shootings against civilians:
 
-> Using data from Houston, Texas – where we have both ocer-involved shootings and a
+> Using data from Houston, Texas – where we have both officer-involved shootings and a
 randomly chosen set of potential interactions with police where lethal force may have been justified - 
 we find, after controlling for suspect demographics, ocer demographics, encounter characteristics,
 suspect weapon and year fixed effects, that blacks are 27.4 percent less likely to be shot at by police
@@ -88,7 +90,8 @@ fell in two camps:^[Hu (2021), Race, Policing, and the Limits of Social Science,
 
 \noindent
 These two lines of criticism -- Hu argues -- miss the point. It is common  place among philosophers 
-of science that data are always theory-laden. What critics call a technical error or a bias may very well be the adoption of certain modeling assumptions that -- for some -- are controversial or implausible.   
+of science that data are always theory-laden. What critics call a technical error or a bias may very well be the adoption of certain modeling assumptions that are controversial or (for some) implausible. 
+
 That theoretical assumptions are needed to carry out data-driven social science is undeniable. So, the crucial question is how to distinguish assumptions that are instrumental for finding out the truth about the social world, and assumptions that instead distort the search for truth.^[In Hu's words: "Where do we draw the line between assumptions about the social world that are needed to get the statistical machinery up and running and assumptions that massively distort how the social world in fact is and works?"]
 
 
@@ -97,7 +100,9 @@ what she calls a double bind:
 
 > Either she [=the social scientist] buys herself the ability to work with troves of data, at the cost of implausibility in her models and assumptions, or she starts with assumptions that are empirically plausible but is left with little data to do inference on. 
 
-As the Fryer's study demonstrates, making inferences about racial bias in policing (or lack thereof) requires extensive data. It also requires relying on several assumptions -- say, assumptions about how the representativeness of the data and the variables in the data  -- which are not testable empirically.^[Fryer's paper at several junctions discusses  the modelling assumptions used. For example, the paper is  clear that its conclusions only concern racial disparities in police treatment *conditional on* the police contact. The paper does not address (if only inconclusively) prior racial disparities in police contact with civilians. See section III "A Note on Potential Selection into Police Data Sets."] On the basis of data and assumptions, certain conclusions follow. As Hu notes, the crux of the matter is quite simple:
+As the Fryer's study demonstrates, making inferences about racial bias in policing (or lack thereof) requires extensive data. It also requires relying on several assumptions -- say, assumptions about how the representativeness of the data and the variables in the data  -- which are not testable empirically.^[Fryer's paper at several junctions discusses  the modelling assumptions used. For example, the paper is  clear that its conclusions only concern racial disparities in police treatment *conditional on* the police contact. The paper does not address (if only inconclusively) prior racial disparities in police contact with civilians. See section III "A Note on Potential Selection into Police Data Sets."] On the basis of data and assumptions, certain conclusions follow. 
+
+As Hu notes, the crux of the matter is quite simple:
 
 > the dispute ultimately comes down to a banal, congenital feature of statistical practice: the plausibility of the assumptions one must make at the start of every such exercise.
 
@@ -110,12 +115,12 @@ of the *web of beliefs*, Hu suggests the following:
 
 
 
-## Counterfactual and racial discrimination
+# Counterfactuals and racial discrimination
 
 
 The question of what causal role race 
 plays is not merely a question about the 
-social sciences. It is also a questions that 
+social sciences. It is also a question that 
 matters a great deal in policy 
 and law. What does it mean, for example, 
 that a candidate who applied for a job was discriminated
@@ -128,16 +133,17 @@ If the counterfactual is false, there is no racial discrimination. It is difficu
 
 This counterfactual approach, however, faces a difficulty. It is incompatible 
 with a popular view about race, that is, race as a social construct.
-We will discuss this critique in detail late in the course. 
+We will discuss this critique in detail later in the semester. 
 For the time being, here is a succinct statement 
 of the problem:
 
-> the audit study’s attempt to disclose a causal effect of race is incompatible with a social constructivist account of race as a social category. If, as the social constructivist account suggests, race is a social category constituted by a set of social practices, institutions, norms, expectations, and so on, then to speak of a decision as being "directly caused" by race white or race black is incoherent. In other words, a causal diagram that draws race as a singular node that independently causes downstream effects, or that sees race as something that can be isolated from confounders and mediators such as "socioeconomic status" or "high school performance" rests upon an incorrect theory of *what race is*--and why it matters in our society.^[Lily Hu (2019), Disparate Causes, pt. I, *Phenomenal World*.]
+>  If, as the social constructivist account suggests, race is a social category constituted by a set of social practices, institutions, norms, expectations, and so on, then to speak of a decision as being "directly caused" by race white or race black is incoherent. In other words, ... [to think of] race as a singular node that independently causes downstream effects, or ... [to see] race as something that can be isolated from confounders and mediators such as "socioeconomic status" or "high school performance" rests upon an incorrect theory of *what race is*--and why it matters in our society.^[Lily Hu (2019), Disparate Causes, pt. I, *Phenomenal World*.]
 
 \noindent
 So, again, in order to understand (and adjudicate) claims of racial 
 discrimination in hiring, we should first understand 
-what causal role (if any) race plays. 
+what causal role (if any) race plays. This question will 
+accompany us throughout the semester. 
 
 
 
