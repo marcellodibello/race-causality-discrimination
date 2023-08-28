@@ -201,7 +201,8 @@ included in the course materials.
 
 # Handouts 
 
-[Week 1](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) 
+[Week 1](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) |
+[Week 2](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation.html) 
 
 
 # Schedule 
@@ -242,6 +243,9 @@ requires an understanding of conditional probabilities, you can check out this
 
 
 *Essential readings*
+
+- [Handout - Week 2](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation.html) 
+
 
 - Holland (1986), [Statistics and Causal Inference](https://www.marcellodibello.com/race-causality-discrimination/readings/Holland-StatisticsCausalInference-1986.pdf)
 
