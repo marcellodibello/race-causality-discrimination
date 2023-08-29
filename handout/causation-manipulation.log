@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  28 AUG 2023 22:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  29 AUG 2023 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -745,6 +745,9 @@ LaTeX Warning: Marginpar on page 4 moved.
 LaTeX Warning: Marginpar on page 4 moved.
 
 
+LaTeX Warning: Marginpar on page 4 moved.
+
+
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
@@ -771,7 +774,7 @@ texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2021/texmf-d
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on causation-manipulation.pdf (4 pages, 115123 bytes).
+Output written on causation-manipulation.pdf (4 pages, 115487 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams

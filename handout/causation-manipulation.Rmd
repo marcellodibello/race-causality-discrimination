@@ -2,8 +2,8 @@
 title: "[Race Causality Discrimination](https://www.marcellodibello.com/race-causality-discrimination/) -- Causation as Manipulation"
 author: "Marcello Di Bello - ASU - Fall 2023 - Week #2"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
@@ -58,7 +58,7 @@ So we'll start with a list of questions for testing your understanding.
 
 > What does $Y_t(u)$ mean (or equivalently $Y(u, t)$)?^[It is crucial here to understand the difference between the associational model and the causal model. The expression $Y_t(u)$ makes no sense in the associational model because it requires a counterfactual reading.]
 
-> What does $Y_c(u)$ mean (or equivalently $Y(y, c)$)?
+> What does $Y_c(u)$ mean (or equivalently $Y(u, c)$)?
 
 > What does the expression $Y_t(u)-Y_c(u)$ mean?
 
@@ -163,7 +163,7 @@ around for a while, though it was not until Rubin that the discipline of
 statistics reached greater clarity on the question of causality. 
 
 Among other things, Rubin's model can help 
-to illustrate a  disagreement between Fisher and Neyman.  On the topic, here is an exercisde for you:
+to illustrate a  disagreement between Fisher and Neyman.  On the topic, here is an exercise for you:
 
 > Explain the disagreement between Fisher and Neyman about the choice of the null hypothesis 
 in experiments with randomized block design. 
@@ -182,7 +182,7 @@ The distinction between attributes (that cannot be causes) and variables
 that can be causes is crucial. 
 Interestingly, Holland notes:
 
->  One may view Fisher's (1957) attack on those who used
+>  One may view Fisher's (1957)^[Fisher (1957), Letter to the Editors, *British Medical Journal*, 2(43).] attack on those who used
  the association between smoking and lung cancer as 
  evidence of a "causal link" between them as an example of
  the difficulty in deciding whether or not smoking is an
