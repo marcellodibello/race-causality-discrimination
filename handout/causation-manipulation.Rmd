@@ -23,7 +23,7 @@ body{ /* Normal  */
 
 
 This week we will read a classic article by Paul Holland^[Holland (1986), Statistics and Causal Inference, *Journal of the American Statistical Society*, 81(396).] that outlines, in simple and succinct language, 
-the Rubin's model for studying causality.^[Donald Rubin is an Emeritus Professor of Statistics at Harvard University, known for the Rubin Causal Model.]  This is a popular framework that describes how many
+the Rubin model of causality.^[Donald Rubin is an Emeritus Professor of Statistics at Harvard University, known for the Rubin Causal Model.]  This is a popular framework that describes how many
 statisticians thinks about causality. 
 
 Holland's article is  technical and it is important to be precise about the formal details. 
@@ -86,14 +86,14 @@ In symbols, the causal effect of $t$ (relative to $c$) on unit $u$ (measured by 
 is expressed by the following difference (p. 947):
 
 \[Y_t(u)-Y_c(u)\]
-This difference can hardly be directly observed because the same unit $u$ cannot be both subject to treatement and control (at the same time).^[See the fundamental problem of causal inference, p. 947, also discussed later.]. 
-So, under certain conditions, it is more common to study the average causal effect of a treatment $t$ across units in a population $U$, that is, the difference, call it $T$:
+This difference can hardly be directly observed because the same unit $u$ cannot be both subject to treatment and control (at the same time).^[See the fundamental problem of causal inference, p. 947, also discussed later.]
+So, under certain conditions, it is more common to study the *average causal effect* of a treatment $t$ across units in a population $U$, that is, the difference (call it $T$):
 
 \[E(Y_t-Y_c)\]
 To be sure, all that can be observed is just the *prima facie* causal effect (call it $T_{PF}$):
 
 \[E(Y_t \vert s=t) -E(Y_c \vert S=c)\]
-Causal inference, at the individual level, can be studied provided certain assumptions hold that allow to derive the causal effect of treatment $t$ on unit $u$ from the $prima facie$ causal effect $T_{PF}$.
+Causal inference, at the individual level, can be studied provided certain assumptions hold that allow to derive the causal effect of treatment $t$ on unit $u$ from the *prima facie* causal effect $T_{PF}$.
 
 
 # Special cases of causal inference (Sec. 4)
@@ -120,17 +120,13 @@ In addition, you should be able to write up a few formal proofs:
 
 > Show that unity homogeneity solves the fundamental problem of causal inference.
 
-> Show that the independence assumption and constant effect assumption, toghether, solve the fundamental problem of causal inference? [Hint: show that under these assumptions $T=T_{PF}$.]
+> Show that the independence assumption and constant effect assumption, toghether, solve the fundamental problem of causal inference? [Hint: first show that by independence $T=T_{PF}$.]
 
-> Show that the constant effect assumption, alone, is not enough to guaranteert that $T=T_{PF}$
-
-> Show that, if unity homogeneity holds, then $T=T_{PF}$.
-
-
+> Show that if unity homogeneity holds, then $T=T_{PF}$.
 
 # Suppes' probabilistic theory of causality (Sec. 5.3 )
 
-The philosopher Patrick Suppes proposed the 
+The philosopher Pat Suppes proposed the 
 following probabilistic 
 account of causality:^[See Suppes (1970), *A Probabilistic Theory of Causality*, North-Holland Publishing Company]
 
@@ -167,10 +163,10 @@ around for a while, though it was not until Rubin that the discipline of
 statistics reached greater clarity on the question of causality. 
 
 Among other things, Rubin's model can help 
-to illustrate a  disagreement between Fisher and Neyman: 
+to illustrate a  disagreement between Fisher and Neyman.  On the topic, here is an exercisde for you:
 
 > Explain the disagreement between Fisher and Neyman about the choice of the null hypothesis 
-in experiments with randomized bloack design? 
+in experiments with randomized block design. 
 Use Rubin's model to explain the difference between $E(Y_t- Y_c)=0$ 
 and $Y_t(u)-Y_c(u)=0$, for all $u\in U$.
 
@@ -178,15 +174,17 @@ and $Y_t(u)-Y_c(u)=0$, for all $u\in U$.
 
 # What can(not) be a cause (Sec. 7)
 
-Holland is clear that not anything can be a cause. Not any event or facts can be a cause. The causal model it presents study causality at the level of individual units $u$, such as people, households, plots of land. In this setting, the word 'cause'  and 'treatment' are used interchangeably. It is crucial that individual units can be **exposed to causes**. Anything individual units cannot be exposed to will not be regarded as causes in any meaningful sense.
+Holland is clear that not anything can be a cause. Not any event or fact can be a cause. The causal model he presents views causality at the level of individual units $u$, such as people, households, plots of land. In this setting, the word 'cause'  and 'treatment' are used interchangeably. It is crucial that individual units can be *exposed to causes*. Anything individual units cannot be exposed to will not be regarded as a cause in any meaningful sense.
 
-A consequence of this view is that stable attributes of individuals, such and race or gender, or even income, cannot be regarded as causes. Individuals cannot be exposed to race or gender, and it is unclear how individual can be exposed to income. Instead, a cure or a school program are clearly things individuals can be exposed to and thus can be regarded as causes.
+A consequence of this view is that stable attributes of individuals, such and race or gender, or even income, cannot be regarded as causes. Individuals cannot be exposed to race or gender, and it is unclear how they can be exposed to income. Instead, a cure or a school program are clearly things individuals can be exposed to and thus can be regarded as causes.
 
+The distinction between attributes (that cannot be causes) and variables 
+that can be causes is crucial. 
 Interestingly, Holland notes:
 
 >  One may view Fisher's (1957) attack on those who used
- the association between smoking and lung cancer as evi-
- dence of a "causal link" between them as an example of
+ the association between smoking and lung cancer as 
+ evidence of a "causal link" between them as an example of
  the difficulty in deciding whether or not smoking is an
  attribute or a cause (p. 955).
 

@@ -305,8 +305,8 @@ background-color:white;
 </style>
 <p>This week we will read a classic article by Paul Holland<label for="tufte-sn-1" class="margin-toggle sidenote-number">1</label><input type="checkbox" id="tufte-sn-1" class="margin-toggle"><span class="sidenote"><span class="sidenote-number">1</span> Holland (1986), Statistics and Causal Inference,
 <em>Journal of the American Statistical Society</em>, 81(396).</span> that
-outlines, in simple and succinct language, the Rubin’s model for
-studying causality.<label for="tufte-sn-2" class="margin-toggle sidenote-number">2</label><input type="checkbox" id="tufte-sn-2" class="margin-toggle"><span class="sidenote"><span class="sidenote-number">2</span> Donald Rubin is an Emeritus Professor of Statistics at
+outlines, in simple and succinct language, the Rubin model of
+causality.<label for="tufte-sn-2" class="margin-toggle sidenote-number">2</label><input type="checkbox" id="tufte-sn-2" class="margin-toggle"><span class="sidenote"><span class="sidenote-number">2</span> Donald Rubin is an Emeritus Professor of Statistics at
 Harvard University, known for the Rubin Causal Model.</span> This is a popular framework that describes
 how many statisticians thinks about causality.</p>
 <p>Holland’s article is technical and it is important to be precise
@@ -405,17 +405,18 @@ relative to the control <span class="math inline">\(c\)</span>.</p>
 <p>In symbols, the causal effect of <span class="math inline">\(t\)</span> (relative to <span class="math inline">\(c\)</span>) on unit <span class="math inline">\(u\)</span> (measured by <span class="math inline">\(Y\)</span>) is expressed by the following
 difference (p. 947):</p>
 <p><span class="math display">\[Y_t(u)-Y_c(u)\]</span> This difference
-can hardly be directly observed because the same unit <span class="math inline">\(u\)</span> cannot be both subject to treatement
-and control (at the same time).<label for="tufte-sn-5" class="margin-toggle sidenote-number">5</label><input type="checkbox" id="tufte-sn-5" class="margin-toggle"><span class="sidenote"><span class="sidenote-number">5</span> See the fundamental problem of causal inference, p. 947,
-also discussed later.</span>. So, under certain conditions, it is more
-common to study the average causal effect of a treatment <span class="math inline">\(t\)</span> across units in a population <span class="math inline">\(U\)</span>, that is, the difference, call it <span class="math inline">\(T\)</span>:</p>
+can hardly be directly observed because the same unit <span class="math inline">\(u\)</span> cannot be both subject to treatment and
+control (at the same time).<label for="tufte-sn-5" class="margin-toggle sidenote-number">5</label><input type="checkbox" id="tufte-sn-5" class="margin-toggle"><span class="sidenote"><span class="sidenote-number">5</span> See the fundamental problem of causal inference, p. 947,
+also discussed later.</span> So, under certain conditions, it is more
+common to study the <em>average causal effect</em> of a treatment <span class="math inline">\(t\)</span> across units in a population <span class="math inline">\(U\)</span>, that is, the difference (call it <span class="math inline">\(T\)</span>):</p>
 <p><span class="math display">\[E(Y_t-Y_c)\]</span> To be sure, all that
 can be observed is just the <em>prima facie</em> causal effect (call it
 <span class="math inline">\(T_{PF}\)</span>):</p>
 <p><span class="math display">\[E(Y_t \vert s=t) -E(Y_c \vert
 S=c)\]</span> Causal inference, at the individual level, can be studied
 provided certain assumptions hold that allow to derive the causal effect
-of treatment <span class="math inline">\(t\)</span> on unit <span class="math inline">\(u\)</span> from the <span class="math inline">\(prima facie\)</span> causal effect <span class="math inline">\(T_{PF}\)</span>.</p>
+of treatment <span class="math inline">\(t\)</span> on unit <span class="math inline">\(u\)</span> from the <em>prima facie</em> causal
+effect <span class="math inline">\(T_{PF}\)</span>.</p>
 </div>
 <div id="special-cases-of-causal-inference-sec.-4" class="section level1">
 <h1>Special cases of causal inference (Sec. 4)</h1>
@@ -447,19 +448,15 @@ inference.</p>
 <blockquote>
 <p>Show that the independence assumption and constant effect assumption,
 toghether, solve the fundamental problem of causal inference? [Hint:
-show that under these assumptions <span class="math inline">\(T=T_{PF}\)</span>.]</p>
+first show that by independence <span class="math inline">\(T=T_{PF}\)</span>.]</p>
 </blockquote>
 <blockquote>
-<p>Show that the constant effect assumption, alone, is not enough to
-guaranteert that <span class="math inline">\(T=T_{PF}\)</span></p>
-</blockquote>
-<blockquote>
-<p>Show that, if unity homogeneity holds, then <span class="math inline">\(T=T_{PF}\)</span>.</p>
+<p>Show that if unity homogeneity holds, then <span class="math inline">\(T=T_{PF}\)</span>.</p>
 </blockquote>
 </div>
 <div id="suppes-probabilistic-theory-of-causality-sec.-5.3" class="section level1">
 <h1>Suppes’ probabilistic theory of causality (Sec. 5.3 )</h1>
-<p>The philosopher Patrick Suppes proposed the following probabilistic
+<p>The philosopher Pat Suppes proposed the following probabilistic
 account of causality:<label for="tufte-sn-6" class="margin-toggle sidenote-number">6</label><input type="checkbox" id="tufte-sn-6" class="margin-toggle"><span class="sidenote"><span class="sidenote-number">6</span> See Suppes (1970), <em>A Probabilistic Theory of
 Causality</em>, North-Holland Publishing Company</span></p>
 <p>One event <span class="math inline">\(C_r\)</span> is the cause of
@@ -492,33 +489,36 @@ last week.</span></p>
 around for a while, though it was not until Rubin that the discipline of
 statistics reached greater clarity on the question of causality.</p>
 <p>Among other things, Rubin’s model can help to illustrate a
-disagreement between Fisher and Neyman:</p>
+disagreement between Fisher and Neyman. On the topic, here is an
+exercisde for you:</p>
 <blockquote>
 <p>Explain the disagreement between Fisher and Neyman about the choice
-of the null hypothesis in experiments with randomized bloack design? Use
+of the null hypothesis in experiments with randomized block design. Use
 Rubin’s model to explain the difference between <span class="math inline">\(E(Y_t- Y_c)=0\)</span> and <span class="math inline">\(Y_t(u)-Y_c(u)=0\)</span>, for all <span class="math inline">\(u\in U\)</span>.</p>
 </blockquote>
 </div>
 <div id="what-cannot-be-a-cause-sec.-7" class="section level1">
 <h1>What can(not) be a cause (Sec. 7)</h1>
 <p>Holland is clear that not anything can be a cause. Not any event or
-facts can be a cause. The causal model it presents study causality at
-the level of individual units <span class="math inline">\(u\)</span>,
-such as people, households, plots of land. In this setting, the word
-‘cause’ and ‘treatment’ are used interchangeably. It is crucial that
-individual units can be <strong>exposed to causes</strong>. Anything
-individual units cannot be exposed to will not be regarded as causes in
-any meaningful sense.</p>
+fact can be a cause. The causal model he presents views causality at the
+level of individual units <span class="math inline">\(u\)</span>, such
+as people, households, plots of land. In this setting, the word ‘cause’
+and ‘treatment’ are used interchangeably. It is crucial that individual
+units can be <em>exposed to causes</em>. Anything individual units
+cannot be exposed to will not be regarded as a cause in any meaningful
+sense.</p>
 <p>A consequence of this view is that stable attributes of individuals,
 such and race or gender, or even income, cannot be regarded as causes.
 Individuals cannot be exposed to race or gender, and it is unclear how
-individual can be exposed to income. Instead, a cure or a school program
-are clearly things individuals can be exposed to and thus can be
-regarded as causes.</p>
-<p>Interestingly, Holland notes:</p>
+they can be exposed to income. Instead, a cure or a school program are
+clearly things individuals can be exposed to and thus can be regarded as
+causes.</p>
+<p>The distinction between attributes (that cannot be causes) and
+variables that can be causes is crucial. Interestingly, Holland
+notes:</p>
 <blockquote>
 <p>One may view Fisher’s (1957) attack on those who used the association
-between smoking and lung cancer as evi- dence of a “causal link” between
+between smoking and lung cancer as evidence of a “causal link” between
 them as an example of the difficulty in deciding whether or not smoking
 is an attribute or a cause (p. 955).</p>
 </blockquote>
