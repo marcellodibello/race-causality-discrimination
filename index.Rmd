@@ -202,7 +202,8 @@ included in the course materials.
 # Handouts 
 
 [Week 1](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) |
-[Week 2](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation.html) 
+[Week 2](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation.html) |
+[Week 3](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation-Woodward.html)
 
 
 # Schedule 
@@ -264,6 +265,7 @@ on work by philosophers.
 
 *Essential readings*
 
+- [Handout - Week 3](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation-Woodward.html)
 
 - Woodward (2003), Causation and Manipulation, Chapter 1 and 2 of the book *Making Things Happens*, 
 Oxford University Press - *check Canvas*
