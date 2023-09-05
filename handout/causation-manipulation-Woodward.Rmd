@@ -44,13 +44,13 @@ should hold:
 then the value of $Y$ would change, as well.
 
 \noindent
-If there is no intervention such that changing the value of $X$ would also change the value of $Y$, then $X$ isn't a cause of $Y$.^[Crucially, this is not a merely counterfactual account of causality. The requirement for $X$ to be a cause of $Y$ is not simply that, if the value of $X$ were to change, then the value of $Y$ would change as well. What is the difference? Another point to note here is that Woodward is primary offering an accounting of type-level causation. For his account of token-level (or actual) causation---which presupposes his account of type causation, see section 2.7.] Woodward is adamant that his account of causation is not  reductive, since the notion of intervention is itself a causal notion.^[How does Woodward address the charge of circularity, then? See section 1.7, especially p. 22.]
+If there is no intervention such that changing the value of $X$ would also change the value of $Y$, then $X$ isn't a cause of $Y$.^[Crucially, this is not a merely counterfactual account of causality. The requirement for $X$ to be a cause of $Y$ is not simply that, if the value of $X$ were to change, then the value of $Y$ would change as well. What is the difference? Another point to note here is that Woodward is primary offering an accounting of type-level causation. For his account of token-level (or actual) causation---which presupposes his account of type causation, see section 2.7.] Woodward is adamant that this account of causation is not  reductive, since the notion of intervention is itself a causal notion.^[How does Woodward address the charge of circularity, then? See section 1.7, especially p. 22.]
 
 ## Graphs and Equations
 
 Before we look at a few examples, it is useful to become familiar with the formal framework made of graphs and equations. 
 
-Graphs will consist of vertices (variables) and directed edges (arrows). An arrow from $X$ to $Y$ simply means that there is a causal relational from $X$ to $Y$. Graph can have different, ever more complex structures. One vertex $Z$ can have two incoming arrows, one from $X$ and another from $Y$, like this:
+Graphs will consist of vertices (variables) and directed edges (arrows). An arrow from $X$ to $Y$ means that there exists a causal relational from $X$ to $Y$. Graph can have different, ever more complex structures. One vertex $Z$ can have two incoming arrows, one from $X$ and another from $Y$, like this:
 \[X \rightarrow  Z \leftarrow Y.\] 
 This would be a *common effect* scenario. One vertex $X$ can have two outgoing arrows, like this:
 \[Y \leftarrow X \rightarrow Z.\] 
