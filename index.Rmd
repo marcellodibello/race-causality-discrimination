@@ -203,7 +203,8 @@ included in the course materials.
 
 [Week 1](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) |
 [Week 2](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation.html) |
-[Week 3](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation-Woodward.html)
+[Week 3](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation-Woodward.html) |
+[Week 4](https://www.marcellodibello.com/race-causality-discrimination/handout/race-cause.html)
 
 
 # Schedule 
@@ -290,6 +291,9 @@ class or gender can have a causal role. The slogan
 
 
 *Essential readings*
+
+- [Handout - Week 4](https://www.marcellodibello.com/race-causality-discrimination/handout/race-cause.html)
+
 
 
 - Holland (2003), [Causation and Race](https://www.marcellodibello.com/race-causality-discrimination/readings/Holland-Causation-Race-2003.pdf)
