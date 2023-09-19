@@ -204,8 +204,8 @@ included in the course materials.
 [Week 1](https://www.marcellodibello.com/race-causality-discrimination/handout/introduction.html) |
 [Week 2](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation.html) |
 [Week 3](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation-Woodward.html) |
-[Week 4](https://www.marcellodibello.com/race-causality-discrimination/handout/race-cause.html)
-
+[Week 4](https://www.marcellodibello.com/race-causality-discrimination/handout/race-cause.html) |
+[Week 5](https://www.marcellodibello.com/race-causality-discrimination/handout/audit-studies.html)
 
 # Schedule 
 
@@ -313,7 +313,7 @@ class or gender can have a causal role. The slogan
 **First essay due**
 
 
-**Week 5: Indicators of Race**
+**Week 5: Audit Studies**
 
 How do social scientists respond to these challenges? We will look at a few examples of studies in sociology and economics that make causal claims about race. In these studies, race (or to be more precise, a variable that is an indicator of race) is still manipulated. Is the manipulationist account, then, secure from objections when it comes to social categories such as race?
 
@@ -322,6 +322,9 @@ How do social scientists respond to these challenges? We will look at a few exam
 The last part of the class will consist in a Q&A session with [Lily Hu](https://scholar.google.com/citations?user=oWI7EukAAAAJ&hl=en), a philosopher at Yale interested in how the social sciences study the causal effects of race. Hu is the author of one of the readings assigned for today.
 
 *Essential readings*
+
+- [Handout - Week 5](https://www.marcellodibello.com/race-causality-discrimination/handout/audit-studies.html)
+
 
 - Hu (2002), Interventionist Social Causes: The Case of Race and Sex, Chapter 2 of [*Causation in the Social World*](https://www.marcellodibello.com/race-causality-discrimination/readings/Hu-CausalitySocial2022.pdf)
 
