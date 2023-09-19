@@ -31,10 +31,12 @@ body{ /* Normal  */
 Over the past few weeks we discussed 
 the manipulability or interventionist
 theory of causation.^[For example, we read about the Rubin model of causation as described in Holland (1986), Statistics and Causal Inference, *Journal of the American Statistical Society*, 81(396). We also read some of the philosophical literature, in particular, Woodward's manipulability theory of causation; see James Woodward (2003), *Making Things Happen: A Theory of Causal Explanation*, 2003, Oxford University Press.] 
-Last week we asked one of the central questions of this course, can RACE^[We use Holland's convention 
+Last week we asked one of the central questions of this course, can RACE^[Recall Holland's convention 
 of referring to the variable 'race' simply as RACE.] be a cause? Statistician Paul Holland thinks that the answer should be negative.^[See Holland (2003), Race and Cause, *Research Report*, January 2003 RR-03-03, ETS Educational Testing Services and Marcellesi (2013), Is Race a Cause?, *Philosophy of Science*, 80(5).] This is surprising. Obviously, race seems to play some causal role in society. The problem is, what role is it and how can we study it? 
 
-This week we discuss audit studies, a methodology for constructing randomized controlled trials in the social sciences.^[For an overview, see Pager (2007),The Use of Field Experiments for Studies of Employment Discrimination: Contributions, Critiques, and Directions for the Future, *The Annals of the American Academy of Political and Social Science*, 609, pp. 104-133.] If randomized controlled trials are the gold standard for studying causation in the medical and biological sciences, can audit studies become the gold standard for studying causation in the social sciences? We will see that the answer is far from straightforward: causation in the social world---for exmaple, gender, sex and race causation---is likely more complicated than what audit studies suggest.^[Hu (2022), *Causation in the Social World*. Doctoral dissertation, Harvard University Graduate School of Arts and Sciences, in particular Chapter 1 and 2.] 
+This week we discuss audit studies, a methodology for constructing randomized controlled trials in the social sciences.^[For an overview, see Pager (2007),The Use of Field Experiments for Studies of Employment Discrimination: Contributions, Critiques, and Directions for the Future, *The Annals of the American Academy of Political and Social Science*, 609, pp. 104-133.] If randomized controlled trials are the gold standard for studying causation in the medical and biological sciences, can audit studies become the gold standard for studying causation in the social sciences? 
+
+We will see that the answer is far from straightforward: causation in the social world---for example, gender, sex and race causation---is likely more complicated than what audit studies suggest.^[Hu (2022), *Causation in the Social World*. Doctoral dissertation, Harvard University Graduate School of Arts and Sciences, in particular Chapter 1 and 2.] 
 
 
 
@@ -102,7 +104,7 @@ be gender-conforming affect. (p. 87)
 
 \noindent
 These are imaginary studies. The first audit study ensures that the two interviewees are perfectly 
-identical except for whether they are taken to be male or female. This is what we would expect the perfect randomized control trial to do: have two otherwise identical units that differ only by sex. But oddly, something in this study is clearly off:
+identical except for whether they are taken to be male or female. This is what we would expect the perfect randomized control trial to do: have two otherwise identical units that differ only by the social category of interest, in this case sex. But oddly, something in this study is off:
 
 > One actor in a skirt portrays a gender conforming female job candidate; the other, a
 gender non-conforming male candidate. And this difference, we know, matters for how the
@@ -113,13 +115,13 @@ So, by controlling for all the *intrinsic* causes, the experimenter failed to co
 for *extrinsic* (relational) causes. Whether someone is perceived as gender conforming or not depends on 
 the interaction between attire and gender category. 
 
-The second audit study attempts to contain the spillover effects of gender non-conforming. Thus, men and women interviewees are both portrayed as gender-conforming. But oddly, this study is also off. So many characteristics have been adjusted for to ensure the interviewees are both gender conforming. It is unclear whether the study can say anything about the causal role of sex.^[Another interesting vignette: " Suppose Daniel and Eunice apply to a position, presenting identical resumes, answering interviewer questions identically, and affecting the same tone, mannerisms, and general personality traits. Over the course of their interviews, each reveals
+The second audit study attempts to contain the spillover effects of gender non-conforming. Thus, male and female interviewees are both portrayed as gender-conforming. But oddly, this study is also off. So many characteristics have been adjusted for to ensure the interviewees are both gender conforming. It is unclear whether the study can say anything about the causal role of sex.^[Another interesting vignette: " Suppose Daniel and Eunice apply to a position, presenting identical resumes, answering interviewer questions identically, and affecting the same tone, mannerisms, and general personality traits. Over the course of their interviews, each reveals
 that they are expecting a child" (p. 107). How does Hu discuss this case and what morals follow fro it?]
 
 
 # What the causal interventionist could say
 
-Perhaps, the moral here is simply that---from an interventionist account of causation, following Woodward---what it means to intervene on sex is unclear. Until we know what sex is, it is unclear how we should intervene on sex. End of the story.
+Perhaps, the moral here is simply that---from an interventionist account of causation---what it means to intervene on sex is unclear. Until we know what sex is, it is unclear how we should intervene on sex:
 
 > causation is a matter of what would happen under an interventionist counterfactual, where
 the target of manipulation, the category of sex, is a category about which there is substantial
@@ -130,7 +132,7 @@ stereotypes? If so, which ones? (p. 103)
 \noindent
 The assumption here is that we can know what sex is *before* we embark in a study of its causal role. But can we really? ^[Hu thinks that ultimately we cannot:" This brings us to what I take to be the crux of the matter: whether an account of what sex is and an account of the causal role that sex plays in the social world can be disentangled at all." (p. 104)]
 
-The interventionist could also suggest that we disentangle the causal role of sex from the causal role of other social features, such as manners of behavior, childcare responsibility or attire. But suppose that researchers can actually factor out the causal role of other social features and isolate the causal role of sex. Whatever the result of this study, it would fail to explain the causal role of gender:
+The interventionist could also suggest that we disentangle the causal role of sex from the causal role of other social features, such as manners of behavior, childcare responsibilities or attire. But suppose that researchers can actually factor out the causal role of other social features and isolate the causal role of sex. Whatever the result of this study, it would fail to explain the causal role of gender:
 
 > An account that treats the causal operation of sex as independent of the causal operation of
 skirts and of childcare responsibilities will fail to illuminate what about *gender*, rather than skirts and
@@ -140,7 +142,7 @@ processes, whereas others are expected to wear skirts at their interviews" (p. 1
 
 # Disrimination before causality 
 
-So, then, should we do away with audit studies? Are their pointless? Not at all. Hu thinks they provide powerful evidence of discrimination: 
+So, then, should we do away with audit studies? Are they pointless? Not at all. Hu thinks they provide powerful evidence of discrimination: 
 
 > Audit studies thereby furnish evidence for discrimination directly ... by first nominating a standard for what constitutes fair treatment across differently raced
 or sexed counterparts and then interpreting a failure to meet the standard as evidence of
@@ -152,7 +154,7 @@ evidence of the causal role of race/sex in society. The crux here is that the cl
 causation in order to substantiate a claim of discrimination, because discrimination is not an
 essentially causal notion" (p. 117).]
 
-So, on this interpretation, the standard criticism---a la Heckman---that audit studies do not account 
+On this interpretation, the standard criticism---a la Heckman---that audit studies do not account 
 for unobservable variables is moot. Whether two resumes *should* receive the same callback rates is a normative judgment that is presupposed in the set up of the audit study itself. Once we agree with this moral judgment---and we might very well not agree---any deviation from the set moral standard is evidence of wrongful racial discrimination. 
 
 Since agreement on the normative standard is a precondition for audit studies 

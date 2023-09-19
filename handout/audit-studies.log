@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  19 SEP 2023 00:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  19 SEP 2023 08:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1137,13 +1137,13 @@ LaTeX Warning: Marginpar on page 1 moved.
 LaTeX Warning: Marginpar on page 2 moved.
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 174.
+(Font)              scaled to size 9.37807pt on input line 176.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 174.
+(Font)              scaled to size 7.29405pt on input line 176.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 174.
+(Font)              scaled to size 9.37807pt on input line 176.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 174.
+(Font)              scaled to size 7.29405pt on input line 176.
 
 LaTeX Warning: Marginpar on page 2 moved.
 
@@ -1179,7 +1179,7 @@ Package rerunfilecheck Info: File `audit-studies.out' has not changed.
 Here is how much of TeX's memory you used:
  32748 strings out of 478994
  739923 string characters out of 5858184
- 1206048 words of memory out of 5000000
+ 1205050 words of memory out of 5000000
  49558 multiletter control sequences out of 15000+600000
  464384 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1189,7 +1189,7 @@ exlive/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2
 021/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on audit-studies.pdf (4 pages, 82418 bytes).
+Output written on audit-studies.pdf (4 pages, 82396 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream
