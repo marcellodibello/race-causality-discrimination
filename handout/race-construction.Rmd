@@ -1,0 +1,272 @@
+---
+title: "[Race Causality Discrimination](https://www.marcellodibello.com/race-causality-discrimination/) -- Race as a Social Construct"
+author: "Marcello Di Bello - ASU - Fall 2023 - Week #7"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+header-includes: 
+  - \usepackage{tikz}
+  - \usepackage{pgfplots}
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+  
+  
+  
+</style>
+
+
+Over the past few weeks we examined the manipulability theory of 
+causation^[Holland (1986), Statistics and Causal Inference, *Journal of the American Statistical Society*, 81(396); Woodward (2003), *Making Things Happen: A Theory of Causal Explanation*, 2003, Oxford University Press.] and whether race can play a causal role within that theory.^[Holland (2003), Race and Cause, *Research Report*, January 2003 RR-03-03, ETS Educational Testing Services and Marcellesi (2013), Is Race a Cause?, *Philosophy of Science*, 80(5).]  Causation in the social world---gender, sex and race causation---operates in a manner that the manipulability theory is unable to account for.^[Hu (2022), *Causation in the Social World*. Doctoral dissertation, Harvard University Graduate School of Arts and Sciences, in particular Chapter 1 and 2.]
+
+But to ask whether race can play a causal role and 
+how this causal role can be studied requires us to ask a more 
+fundamental question. We now take up this fundamental question which 
+has been lurking in the background: What is race? 
+We look at two social constructionist 
+accounts, one by Sally Haslanger^[Haslanger (2019), Tracing the Sociopolitical Reality of Race, in *What is Race? Four Philosophical Views*, Oxford University Press.] and the other by Chike Jeffers.^[Jeffers (2019), Cultural Contructionism, in *What is Race? Four Philosophical Views*, Oxford University Press.]
+
+
+# Haslanger
+
+## The Theory (sec. 1.6)
+
+Haslanger provides a 
+tripartite account of race. 
+Group $G$ is racialized when:
+
+(a) certain visible bodily features are taken to be evidence of a common ancestral geographical origin 
+and are used to demarcate group $G$; 
+
+(b) these features take on social meanings and individuals in $G$ are assigned a social position 
+of subordination or privilege, where this social positioning is taken to be justified; 
+
+(c) conditions (a) and (b) play a role in placing individuals in $G$ in 
+the social hierarchy as subordinate or privileged.
+
+In Haslanger words:
+
+> The idea is that races are racialized groups, that is, (a) those groups demarcated
+by the geographical associations accompanying perceived body type, when
+(b) those associations take on evaluative significance (or social meaning) concerning how members of the group should be viewed and treated, and (c) the treatment situates the groups on a social hierarchy. (p. 26)
+
+\noindent
+An interesting---albeit controversial---consequence of this account is that 
+race is intimately tied with social hierarchy. For Haslanger, race should be distinguished 
+from ethnicity. Ethnic groups are primarily demarcated 
+by culture (language, customs, etc.), and the process by which they are situated 
+in a social hierarchy is the *racialization* of the ethnic group. So, ethnic groups can exist 
+without social hierarchy, but racial groups cannot. If social hierarchy is eliminated, 
+then racial groups would also be eliminated.^[Is this a problem for Haslanger's account?]
+
+
+## Evaluating the theory (sec. 1.5)
+
+How can we evaluate the adequacy of this
+theory of race? Haslanger proposes that we situate ourselves within a 
+representational tradition^[What is a representational 
+tradition? Why does Haslanger limit her inquiry to the US?] and rely 
+on a few inputs to guide our deliberation about what race is.^[Note 
+the use of the word 'deliberation' as opposed to 'theorizing'. What does this choice suggest?] 
+These inputs include (pp. 16-18):
+
+- particular instances: MLK is black, Hilary Cliton is White, Che Guevara is Latino, etc.
+
+- perceptual gestalts: skin color, hair texture, etc. 
+
+- biological roles: how race is inherited (e.g. rule of hypo-descent), 
+differences in life expectancy, biological differences, etc.
+
+- historical roles: slave trade, colonization, racial segregation, affirmative action, etc.
+
+- practical roles: patterns of housing, crime, employment, etc.
+
+- symbolic roles: cultural norms, artistic traditions, etc.
+
+- explanatory roles: race as an explanation for disparities in health, incarceration, education, etc.
+
+- epistemology: perceptual gestalts usually taken as indicators of race.
+
+This list is not exhaustive, but a starting point. An adequate 
+theory of race is expected to accommodate (or reasonably 
+interpret) these inputs.^[What is exactly the relationship between 
+a proposed theory of race and these inputs? What does it mean 
+to accommodate or reasonably interpret?] Haslanger claims that her theory of 
+race is a good interpretation of these inputs.^[As an exercise, go through each type of input and ask how Haslanger's theory would accommodate it. How would other theories fare in comparison? Take, for example, Hardimon's theory of race (p. 19) consisting of three conditions: (i) patterns of visible physical features, (ii) common ancestry and (iii) distinctive geographic location. Does this theory do an equally good job as Haslanger's? What about Jeffers's theory?]
+
+
+## What is the question? (sec . 1.2)
+
+Underlying this line of argument is Haslanger's understanding of 
+the question 'what is race?' There are many ways to understand the question:
+
+> Is it an empirical question that we should answer using the methods
+of biology? Or should we use the methods of empirical sociology or history?
+Is it a question about what ‘race’ means? And how might one determine the
+meaning of ‘race’? Do we get to stipulate the meaning? Are we seeking a philosophical tool for explanatory purposes? Or is the question best understood as arising for us as participants in racializing practices? (p. 7)
+
+\noindent
+Depending on how we understand the question, 
+different answers may be adequate or inadequate. 
+Crucially, Haslanger approaches it
+as a social critic:^[See Shelbys's characterization of a social critic on pp. 7-8.]
+
+> the project is not simply a descriptive or explanatory
+project, but aims to shape or guide our thinking and acting. Social critics take
+this even a step further: we are situated as critics of ordinary social practices and
+offer tools and understandings that are designed to improve them. (p. 8)
+
+\noindent
+So, for Haslanger, the point is not only to offer a backward-looking theory of race that 
+accommodates---or adequately explains---the inputs listed above. The point of theorizing (better: deliberating) about race 
+is also to offer a forward-looking theory that can appropriately guide action.
+
+
+## Doing away with race? (sec. 1.7)
+
+If the point is to guide action, should the concept of race still be used in the first place? 
+Haslanger thinks that we should value ethnic-cultural difference but 'cease to think and act in racial terms' (p. 32). This follows almost analytically from her theory of race.^[Why does it follow?] At the same time, Haslanger thinks that race is real because racial injustices are real, and we cannot simply become color-blind. So, should we abandon the concept of race or keep it? 
+
+> [My] strategy is to offer a debunking account
+of race. Debunking accounts aim to shift our understanding to reveal how
+our prior thinking is false or misguided. The point is to disrupt our ways of
+thinking, to motivate a new relationship to our practices ...  then we
+will begin to see the importance of disrupting race and organizing ourselves
+on different terms. (pp. 32-33)
+
+
+# Jeffers
+
+Jeffers is, like Haslanger, a constructionist about race. But he draws an important distinction 
+between *political* and *cultural* constructionism. Political constructionism can be defined, as follows:
+
+> (1)differential power relations are
+what first brought racial difference into existence and are thus fundamental
+in being the origin of races; (2) differential power relations count 
+as *most important in the present* to the reality of race ... and (3) differential power relations
+are *essential* to race. (pp. 56-57)
+
+\noindent
+Haslanger's theory is of this kind: if social hierarchy were eliminated, races would also be eliminated. 
+Jeffers resists this conclusion. He agrees with point (1), but disagrees with points (2) and (3). 
+
+Jeffers hold, like Haslanger, that we should move toward ending racialization insofar as it involves hierarchy and subordination. But he also thinks that 'we ought to actively
+continue constructing races as cultural groups' (p. 58). In this sense, he calls himself 
+a social construcivist about race.^[He does not agree, however, with full blown 
+cultural constructionism about race: 'A maximally robust cultural constructionism would, by contrast, hold
+that (1) the origin of racial difference is to be found in divergences in ways
+of life; (2)  only cultural difference must always be understood in order to
+understand the reality of race in the present; and (3)  cultural difference is
+essential to race, such that the end of distinctive ways of life would mean the
+end of race.' (p. 57)]
+
+Jeffers thinks that there is a distinctive cultural dimension to race which political constructionism tends to overlook.^[Jeffers writes (pp. 64-65): 'three forms of cultural significance---racial consciousness itself as cultural, racial consciousness as facilitating new cultural developments,
+and racial consciousness as shaped by prior cultural developments---are key aspects of a proper account of the social construction of race, on my view. They are not central to standard political constructionism.'] Here is an example:
+
+> An Afro-Cuban individual may love being a Latino and yet simultaneously take great pride in being of
+African descent, with the result that she feels a strong sense of kinship and
+shared cultural ownership when witnessing or participating in forms of culture originating in sub-Saharan Africa or in places in the African diaspora outside Latin America. (p. 61)
+
+\noindent
+This example doesn't yet challenge political constructionism, though. Haslanger will 
+concede the reality of this cultural dimension of race, while perhaps not assigning it a central role in constructing race. 
+
+The disagreement lies in the relative importance assigned to politics v.\ culture for understanding race.
+So, against point (2), Jeffers holds that politics and culture are at least equally important to understand the social phenomenon of race. He provides three illustrating examples to motivate this claim. They have to do with education (p. 66), interracial marriage (p. 68) and stereotypes (p.68). 
+
+Consider the case of stereotyping:
+
+> Stereotypes, then, are problematic distortions, but not by virtue of
+representing differences in thought and behavior between races. The
+problems are in how they exaggerate differences, in how intrinsic to group
+membership they represent differences, in how they reduce groups to specific
+differences, thus obscuring inner complexity and diversity, and, at times, how
+the differences they represent are completely made up. Opposing stereotypes
+should not be equated, then, with opposing the representation of racial groups
+as having different ways of life. (p. 70)
+
+\noindent
+What is wrong with stereotyping, then, cannot be fully understood through the lens 
+of political constructionism only.^[How can this argument be developed more precisely? What, exactly, is a political constructionist like Haslanger missing here?]
+
+Against point (3), Jeffers does not deny that if/when racism ends and social hierarchies disappear, races may also end. 
+But he also thinks it is *possible* that if/when race ends, 
+races will still exist and take up a cultural meaning:
+
+> I take it to be both intuitive from an everyday perspective and expressive of a social constructionist
+highlighting of historical development to hold that people’s continued attachment to being black, for example, in a post-racist world would remain an attachment to a race. (p. 72)
+
+\noindent
+Haslanger, instead, thinks that if/when racism ends, race talk will not be about race, but about something else such as ethnicity.^[What do we gain, for Jeffers, by calling 'race' whatever new 'racial' phenomenon remains in a post-racist world? Perhaps a form of historical, conceptual continuity?] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
