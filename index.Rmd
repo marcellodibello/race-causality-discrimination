@@ -413,6 +413,8 @@ real and as an illusion.
 
 *Additional readings and materials*
 
+-  Appiah (1985), [The Uncompleted Argument: Du Bois and the Illusion of Race](https://blogs.law.columbia.edu/revolution1313/files/2022/01/Anthony-Appiah-The-Uncompleted-Argument-Du-Bois-and-the-Illusion-of-Race.pdf)
+
 - Mallon (2006), [‘Race': Normative, Not Metaphysical or Semantic](https://www.marcellodibello.com/race-causality-discrimination/readings/Mallon-RaceNormativeMetaphysical-2006.pdf)
 
 ## 10/24
@@ -448,6 +450,12 @@ What is discrimination and how is it measured?
 
 
 Now, if race is socially constructed, how can it be subject to statistical analysis by manipulating it as a variable or controlling for other variables? What are the pitfalls of this standard way of studying discrimination? 
+
+**Q&A with Naftali Weinberger**
+
+The first part of the class will consist in a Q&A session with [Naftali Weinberger](https://sites.google.com/site/naftaliweinberger/), a philosopher at the Munich Center for Mathematical Philosophy, Germany, interested in causally modeling and causal issues related to discrimination. 
+Naftali is the author of one of the readings assigned for today.
+
 
 *Essential readings*
 
