@@ -206,7 +206,8 @@ included in the course materials.
 [Week 3](https://www.marcellodibello.com/race-causality-discrimination/handout/causation-manipulation-Woodward.html) |
 [Week 4](https://www.marcellodibello.com/race-causality-discrimination/handout/race-cause.html) |
 [Week 5](https://www.marcellodibello.com/race-causality-discrimination/handout/audit-studies.html) |
-[Week 7](https://www.marcellodibello.com/race-causality-discrimination/handout/race-construction.html)
+[Week 7](https://www.marcellodibello.com/race-causality-discrimination/handout/race-construction.html) |
+[Week 9](https://www.marcellodibello.com/race-causality-discrimination/handout/race-real)
 
 # Schedule 
 
@@ -405,6 +406,9 @@ This week we will look at accounts of race as biologically
 real and as an illusion. 
 
 *Essential readings*
+
+- [Handout - Week 9](https://www.marcellodibello.com/race-causality-discrimination/handout/race-real)
+
 
 - Spencer (2019), How to Be a Biological Racial Realist, in [What is Race? Four Philosophical Views](https://academic.oup.com/book/34975), Oxford University Press
 
