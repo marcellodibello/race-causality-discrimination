@@ -207,7 +207,8 @@ included in the course materials.
 [Week 4](https://www.marcellodibello.com/race-causality-discrimination/handout/race-cause.html) |
 [Week 5](https://www.marcellodibello.com/race-causality-discrimination/handout/audit-studies.html) |
 [Week 7](https://www.marcellodibello.com/race-causality-discrimination/handout/race-construction.html) |
-[Week 9](https://www.marcellodibello.com/race-causality-discrimination/handout/race-real)
+[Week 9](https://www.marcellodibello.com/race-causality-discrimination/handout/race-real.html) |
+[Week 10](https://www.marcellodibello.com/race-causality-discrimination/handout/discrimination.html)
 
 # Schedule 
 
@@ -437,6 +438,8 @@ What is discrimination and how is it measured?
 *Essential readings*
 
 
+- [Handout - Week 10](https://www.marcellodibello.com/race-causality-discrimination/handout/discrimination.html)
+
 - (2004), [Causal Inference and the Assessment of Racial Discrimination](https://nap.nationalacademies.org/read/10887/chapter/9), Chapter 5 of *Measuring Racial Discrimination*, The National Academies Press
 
 
@@ -444,7 +447,6 @@ What is discrimination and how is it measured?
 [Causality](https://fairmlbook.org/causal.html), especially section “Counterfactuals in the law”, Chapter 5 of [Fairness and Machine Learning](https://fairmlbook.org/)
 
 
-*Additional readings and materials*
 
 
 ## 10/31
