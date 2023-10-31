@@ -208,7 +208,9 @@ included in the course materials.
 [Week 5](https://www.marcellodibello.com/race-causality-discrimination/handout/audit-studies.html) |
 [Week 7](https://www.marcellodibello.com/race-causality-discrimination/handout/race-construction.html) |
 [Week 9](https://www.marcellodibello.com/race-causality-discrimination/handout/race-real.html) |
-[Week 10](https://www.marcellodibello.com/race-causality-discrimination/handout/discrimination.html)
+[Week 10](https://www.marcellodibello.com/race-causality-discrimination/handout/discrimination.html) |
+[Week 11](https://www.marcellodibello.com/race-causality-discrimination/handout/test-discrimination.html)
+
 
 # Schedule 
 
@@ -429,7 +431,7 @@ real and as an illusion.
 
 
 
-**Week 10: Racial Discrimination**
+**Week 10: Measuring Racial Discrimination**
 
 Having clarified what we could mean by race, let's return to our original question:  how can we study the causal effects of race? We will focus in particular on racial discrimination, one crucial way in which race can have causal effects. 
 What is discrimination and how is it measured?
@@ -452,7 +454,7 @@ What is discrimination and how is it measured?
 ## 10/31
 
 
-**Week 11: Race in Racial Discrimination**
+**Week 11: Testing for Discrimination**
 
 
 Now, if race is socially constructed, how can it be subject to statistical analysis by manipulating it as a variable or controlling for other variables? What are the pitfalls of this standard way of studying discrimination? 
@@ -465,10 +467,12 @@ Naftali is the author of one of the readings assigned for today.
 
 *Essential readings*
 
+- [Handout - Week 11](https://www.marcellodibello.com/race-causality-discrimination/handout/test-discrimination.html)
 
-- Kohler-Hausmann (2018), [Eddie Murphy and the Dangers of Counterfactual Causal Thinking about Detecting Racial Discrimination](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1374&context=nulr)
 
-- Naftali Weinberger (2022), [Signal Manipulation and the Causal Analysis of Racial Discrimination](https://www.marcellodibello.com/race-causality-discrimination/readings/Signal-Manipulation-Causal-Race-2023.pdf)
+- Kohler-Hausmann (2019), [Eddie Murphy and the Dangers of Counterfactual Causal Thinking about Detecting Racial Discrimination](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1374&context=nulr)
+
+- Naftali Weinberger (2023), [Signal Manipulation and the Causal Analysis of Racial Discrimination](https://www.marcellodibello.com/race-causality-discrimination/readings/Signal-Manipulation-Causal-Race-2023.pdf)
 
 
 *Additional readings and materials*
