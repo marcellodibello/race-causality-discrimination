@@ -210,7 +210,7 @@ included in the course materials.
 [Week 9](https://www.marcellodibello.com/race-causality-discrimination/handout/race-real.html) |
 [Week 10](https://www.marcellodibello.com/race-causality-discrimination/handout/discrimination.html) |
 [Week 11](https://www.marcellodibello.com/race-causality-discrimination/handout/test-discrimination.html) |
-[Week 12](https://www.marcellodibello.com/race-causality-discrimination/handout/social-structures-races.html)
+[Week 12](https://www.marcellodibello.com/race-causality-discrimination/handout/social-structures-race.html)
 
 
 # Schedule 
@@ -494,7 +494,7 @@ is often mentioned, even in the mainstream media, namely "structural injustice".
 
 *Essential readings*
 
-- [Handout - Week 12](https://www.marcellodibello.com/race-causality-discrimination/handout/social-structures-races.html)
+- [Handout - Week 12](https://www.marcellodibello.com/race-causality-discrimination/handout/social-structures-race.html)
 
 
 - Haslanger (2012), [Oppression: Racial and Other](), chapter 11 of the book *Resisting Reality*, Oxford University Press - *check Canvas*
