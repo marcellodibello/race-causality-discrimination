@@ -1,0 +1,185 @@
+---
+title: "[Race Causality Discrimination](https://www.marcellodibello.com/race-causality-discrimination/) -- Structural Explanation and Group Oppression"
+author: "Marcello Di Bello - ASU - Fall 2023 - Week #12"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+header-includes: 
+  - \usepackage{tikz}
+  - \usepackage{pgfplots}
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+  
+  
+  
+</style>
+
+
+Over the last few weeks we discussed the topic of racial discrimination. The received view among 
+quantitative social scientists is to rely on a counterfactual test: had the person been of a different race, would they have 
+been treated differently?^[See National Academies of Sciences, Engineering, and Medicine (2004), *Measuring Racial Discrimination*, The National Academies Press, especially Chapter 5 and the Executive Summary.] We have also examined Kohler-Hausmann's argument that, when race is understood according to social constructionism, 
+a counterfactual approach to racial discrimination is inadequate.^[Kohler-Hausmann (2019), Eddie Murphy and the Dangers of Counterfactual Causal Thinking about Detecting Racial Discrimination, *Northwestern University Law Review* 113: 1163-1227. For a criticism of Hausmann's argument, see Weinberger (2023), Signal Manipulation and the Causal Analysis of Racial Discrimination, *Ergo an Open Access Journal of Philosophy* 9(46): 1264-1287.] 
+
+Today we look at another (albeit related) challenge to the counterfactual test. This test views discrimination as an individual-level phenomenon: the causal process of discrimination targets the individual. But often we hear that discrimination 
+can occur at the structural or institutional level. What does that mean? 
+Today we attempt to become clear on the idea of structural discrimination. We will read two pieces 
+by Sally Haslanger, one on social structural explanations and another on structural oppression (or discrimination).
+
+
+# Social structural explanations
+
+Let's start with the idea of a structural, as opposed to an individual-level 
+explanation of a phenomenon.^[The reference reading here is Haslanger (2015), What Is a (Social) Structural Explanation? *Philosophical Studies*] Consider this example:
+
+> Suppose I am playing ball with my dog. I stuff a treat into a hole in the ball and
+throw it for him. The ball goes over the lip of a hill and rolls down into a gully. Why
+did the treat end up in the gully? ... the treat was inserted into a ball
+that was thrown and rolled down the hill into the gully ... we
+explain the behavior of the treat by its being part of something larger whose
+behavior we explain. (section 2)
+
+\noindent
+The behavior of the individual (the treat, in the example) is explained, not by the myriad of interactions of the individual to its surrounding environment, but rather, by the behavior of the larger structure (the ball) of which the individual is a part. Since (a) we understand why the ball took the trajectory it took and (b) we know the treat must follow the same trajectory as the ball, we can explain the behavior of the treat by simply using the behavior of the ball.
+
+Here is another analogy.^[Garfinkel (1981), *Forms of explanation: Rethinking the questions in social theory*, Yale
+University Press]. An instructor decides to grade on a curve and assign only one A to the best paper in the class:
+
+> when we ask, ‘‘Why did Mary get an A?’’ the
+answer: ‘‘She wrote an original and thoughtful final’’ is inadequate. Why? Because
+in order to earn the single A, one would have to write the *best* final. If the instructor
+had not decided to grade on a curve, many students could have earned As by virtue
+of writing thoughtful and original finals. (section 2)
+
+\noindent
+Here, too, the fact that Mary got an A cannot be explained by individual-level occurrences, for example, what Mary did, what her paper was like, etc. It is necessary to appeal to the grading structure, the whole of which Mary's paper is a part. It is the particular way in Mary's paper stands *in relation* to others that explains why it received an A. 
+
+There are, then, two directions of explanation: explain the behavior of the whole by the behavior of the parts (which is  common^[Can you give an example?]) but also explain the behavior of the parts by the behavior of the whole.^[Can you give some other examples?] The latter are *structural explanations*. For structural explanations to work, the whole must stand on its own: the grading structure is not changed by the quality of the individual papers, and the trajectory of the ball is not changed by the treat placed in the ball.^[On this point, here is Haslanger: "n explaining why the dog treat rolled down the hill, it doesn’t matter whether it was bacon or beef, crunchy or chewy; it does matter that the ball containing it was
+round. Without knowing the shape and weight of the ball, the slope of the hill, etc.
+we won’t be in a position to explain—in a stable and helpful way—the eventual
+position of the ball/treat. In explaining why Mary earned the A, it doesn’t matter
+where she was born, who her parents were, or what she had for breakfast: what
+matters is that only one A was possible, and her final was better than all the others." (section 3)] 
+
+
+A third example can be helpful.^[Dretske (1988), *Explaining behavior: Reasons in a world of causes*,  MIT Press.] Suppose Clyde stood up *when* the Queened entered. The Queen's entrance was the *triggering cause* of Clyde's standing up. There are also structuring causes: Clyde *stood up* when the Queen entered. It is the fact that Clyde is the Queen's' subject that made him stand up when the Queen entered the room:  
+
+> Locating Clyde in a structure, we shift our attention from individuals to nodes:
+subjects are required as a matter of etiquette (the structural conditions that limit the
+possibilities for nodes in the structure) to stand when the Queen enters. This is not a
+quirk of Clyde’s: generally subjects of the Queen will stand up when she enters the
+room, given the relations between Queen, her subject and the rules of etiquette (section 4).
+
+\noindent
+These three examples---the treat in the ball, Mary's A paper, and Clyde's standing up---give us a sense of what structural as opposed to individual-level explanations are like. 
+
+This general idea of structural explanation can also be applied 
+to the social realm. Say we ask the question, why do women continue 
+to be economically disadvantaged compared to men? An individualist explanation may turn to 
+genetic features, preferences, desires, etc. A structural explanation, instead, will point to the larger social structure---the  whole---women are part of. 
+
+Here is a poignant example, call it *Invisible Foot*:
+
+>  Larry and Lisa decide to have children; baby Lulu
+arrives. They live in a community where decent childcare is beyond their
+means. Moreover ... in this community, as elsewhere, there is
+a wage gap: women, on average, make only 75 % of what men make. Under
+these conditions ... it is reasonable for Larry to work fulltime and 
+for Lisa to make adjustments in her work, e.g., to work part-time, to
+take time off, to take a less demanding job...
+So Larry accrues greater human capital
+and ends up with more power in the relationship. Moreover, insofar as Larry
+and Lisa are typical, women on average will be poorer risks for employers ... 
+As a result, ‘‘women’s jobs’’ that require less
+commitment, mobility, and experience will pay less, and women will have
+to prove themselves exceptional to be considered for high paying ‘‘men’s
+jobs.’’ As a result, the pattern is reinforced (section 5)
+
+\noindent
+The decisions of Larry and Lisa are part of a structure in which men are on average paid more, and higher wages 
+are seen as a sign of greater power and success. Within this structure, it is reasonable for 
+Lisa to take a part-time job, but as a result, Lisa will earn less. The cycle 
+of disadvantage is reinforced.^[Admittedly, this social structural explanation is more complex than the three stylized examples from before. The added complexity is due to at least a couple of features of this example: first, an individual decision is what ultimately triggered the choice for Lisa to take a part-time job that earns less; and second, individual decisions and social disadvantage interact with one another in a self-reinforcing cycle. The whole (social structure) and the parts (individual decision) influence one another in complex ways. Perhaps this is just an individual-level explanation that is stretched over time?] 
+
+
+# Intermezzo
+
+Let's apply the counterfactual test of discrimination to Invisible Foot.^[Incidentally, this would be a case of gender discrimination, not race discrimination, but the idea is the same.] Suppose Lisa later in life applies for a full-time job, but the employer decides to pay Lisa less because she is less qualified, has less experience, etc.  Has Lisa been discriminated against because she is a woman? Had Lisa been a man---all else been equal (same qualification, etc.)---the employer would have presumably made the same decision. So, the counterfactual test does not detect discrimination.^[Do you agree with this reading of the counterfactual? Could someone object to this reading? If so, how?] This is right, in some sense: the employer did not discriminate against Lisa as a women. But, in another sense, Lisa has been subject to structural discrimination as illustrated by Invisible Foot. 
+
+
+# Racial Oppression
+
+So far we have solely talked about (social) structural explanations  without making 
+explicit how group membership can be implicated. If we say that Lisa was discriminated against 
+structurally *in virtue of* being a women, what does that mean? As a terminological choice, instead of talking about structural discrimination, I will talk about structural oppression directed at member of certain social groups. This is a terminological choice, but the concepts should be interchangeable.^[Are they really? The change of terminology follows the reading. Haslanger (2012), Chapter 11 - Oppressions: Racial and Other, in  Haslanger (2012), *Resisting Reality: Social Construction and Social Critique*, Oxford University Press.] 
+
+Consider this fictional case, called *Slogs*:
+
+> there is a group, call them the Slogs, who are truly lazy. They don’t like to work, and when they are given
+work they are irresponsible about getting it done and do it badly. Let’s suppose too that this laziness of the
+Slogs is not the result of a previous injustice. Further, in this society the Slogs and only the Slogs are lazy,
+and the Slogs and only the Slogs are poor ... everyone else earns a more generous income and has a significantly better standard of living. Suppose now that the society imposes a harsh policy affecting the poor—for example, the denial of medical
+care to those who can’t afford to pay for it. Note that in this society there is a nonaccidental correlation
+between being lazy and being denied medical treatment. Should we say then that the Slogs are oppressed as
+lazy? (p. 331)
+
+\noindent
+To be clear, the Slogs *qua* poor are discriminated against because they 
+are denied medical care. The question is whether they are discriminated 
+against (or oppressed) *qua* Slogs. This will depend on the theory we subscribe to. 
+First, consider this:
+
+> $F$s are oppressed (as $F$s) by an institution $I$ in context $C$ iff in ($\exists R$) (being an $F$
+nonaccidentally correlates with being disadvantaged by standing in an unjust relation $R$ to others)
+and I creates, perpetuates, or reinforces $R$.) (p. 325)
+
+\noindent
+According to this theory of group oppression, the slogs are oppressed *qua* slogs because being a slog stands in a non-accidental correlation to an unjust condition of disadvantage (namely, being denied medical care).^[How does Haslanger define this non-accidental correlation? Here is it: "a correlation counts as nonaccidental
+because it supports certain kinds of counterfactuals; the idea is that the group’s being a group of $F$s is
+causally relevant to the injustice" (p. 328). Interestingly, we find again a counterfactual here. Is this a problem for the theory?] But this is counterintuitive. The slogs are not discriminated against *qua* slogs, only *qua* poor.^[Why is that? Can you explain?] 
+So consider this theory:
+
+> $F$s are oppressed (as $F$s) by an institution $I$ in context $C$ iff in $C$ ($\exists R$) (((being an $F$
+nonaccidentally correlates with being unjustly disadvantaged either primarily, because being $F$ is
+unjustly disadvantaging in $C$, or secondarily, because ($\exists G$) (being $F$ nonaccidentally correlates with
+being $G$ due to a prior injustice and being $G$ is unjustly disadvantaging in $C$)) and $I$ creates,
+perpetuates, or reinforces $R$.)
+
+\noindent
+Even though being a slog is non-accidentally correlated with disadvantage, the correlation is mediated by a non-accidental correlation between poverty and being a slog. This latter correlation is not due to a prior injustice, simply 
+to the fact that the slogs are lazy.  So the slogs are not discriminated against, only the poor are.^[Do you find this convincing? What problems is Haslanger trying to avoid here?] 
+
+
+
+# ***
+
+Let's put the pieces together. A social structural explanation explains a phenomenon by the whole of which an individual is part. So Lisa is economically disadvantaged because she is part of a structure that puts women at a disadvantage, as sillustrated by Invisible Foot. Now, is Lisa structurally oppressed (or discriminated against) as a woman? She is if and only if---following Haslanger's theory of structural oppression---being a women non-accidentally correlates with, say, weaker job qualifications and the latter non-accidentally correlate with being a woman due to prior injustice.^[Here is another example of structural group oppression (or discrimination): "Blacks are oppressed *as Blacks* by child welfare policies in Chicago in the 1990s because in that context being poor results in having one's family unjustly disrupted, and being poor
+nonaccidentally correlates with being Black *due to a prior injustice*, and the child welfare policies
+cause or perpetuate unjust disruption of families. (p. 332)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
