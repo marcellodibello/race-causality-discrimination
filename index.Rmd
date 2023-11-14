@@ -210,7 +210,9 @@ included in the course materials.
 [Week 9](https://www.marcellodibello.com/race-causality-discrimination/handout/race-real.html) |
 [Week 10](https://www.marcellodibello.com/race-causality-discrimination/handout/discrimination.html) |
 [Week 11](https://www.marcellodibello.com/race-causality-discrimination/handout/test-discrimination.html) |
-[Week 12](https://www.marcellodibello.com/race-causality-discrimination/handout/social-structures-race.html)
+[Week 12](https://www.marcellodibello.com/race-causality-discrimination/handout/social-structures-race.html) |
+[Week 13](https://www.marcellodibello.com/race-causality-discrimination/handout/intervention-structure.html)
+
 
 
 # Schedule 
@@ -510,7 +512,7 @@ is often mentioned, even in the mainstream media, namely "structural injustice".
 ## 11/14
 
 
-**Week 13: Social Structural Explanation**
+**Week 13: Social Structures as Causes**
 
 
 To what extent can a manipulationist account of causality model the causal role of race in a structural sense? Some think this framework can capture the structural picture. How do such accounts model the causal (structural?) role of race? 
@@ -521,6 +523,8 @@ The first part of the class will consist in a Q&A session with [Lauren Ross](htt
 
 
 *Essential readings*
+
+- [Handout - Week 13](https://www.marcellodibello.com/race-causality-discrimination/handout/intervention-structure.html)
 
 
 - Ross (2023), [What Is Social Structural Explanation? A Causal Account](https://www.marcellodibello.com/race-causality-discrimination/readings/Ross-SsocialStructExplNous-2023 .pdf)

@@ -1,0 +1,154 @@
+---
+title: "[Race Causality Discrimination](https://www.marcellodibello.com/race-causality-discrimination/) -- Structures as Causes"
+author: "Marcello Di Bello - ASU - Fall 2023 - Week #13"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: default
+header-includes: 
+  - \usepackage{tikz}
+  - \usepackage{pgfplots}
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+  
+</style>
+
+
+Last week we discussed the idea of a structural, as opposed to an individual-level 
+explanation of a phenomenon.^[Haslanger (2015), What Is a (Social) Structural Explanation? *Philosophical Studies*. We also talked about structural discrimination and oppression. See Haslanger (2012), Chapter 11 - Oppressions: Racial and Other, in  Haslanger (2012), *Resisting Reality: Social Construction and Social Critique*, Oxford University Press.] This week we continue to talk about structural explanation in the social sciences, and see to what extent the manipulability account of causation can adequately model it.^[The main readings for today are: Ross (2023), What Is Social Structural Explanation? A Causal Account, *Nous*; Malinsky (2018), Intervening on Structure, *Synthese* 195:2295-2312.] 
+
+We have come full circle: we started with the manipulability account of causation and today we return to it.^[James Woodward (2003), *Making Things Happen: A Theory of Causal Explanation*, 2003, Oxford University Press.]
+
+# Ross on Social Structural Causes
+
+These three examples of structural causality are helpful to fix ideas. First example:
+
+>  Jason has a factory job that starts
+at 6am and he commutes via a city bus. He takes the first available morning bus and manages the
+45-minute commute to arrive on time. As Jason is poor, he lacks financial and other resources
+that would allow for alternative travel options. After financial changes, the city implements cutbacks which eliminate Jason’s bus-route. The early route he usually takes is discontinued and
+there are no other routes to get him to work on time. After the manager states that no other shifts
+are available, Jason cannot arrive on time, and he loses his job. (section 2.1)
+
+\noindent
+Second example:
+
+> Some studies report a higher prevalence of less
+“healthy” diets in individuals from minority and lower socioeconomic groups and there is interest in explaining why this is the case ... some impoverished US neighborhoods are
+considered “food deserts” in the sense that there are no close grocery stores selling fresh produce.
+These locations often lack bus routes to nearby stores and they contain barriers for walking options ...
+For individuals living in these areas, the lack of resources (including time and finances) makes
+“choosing” such a diet extremely difficult, if not impossible. (section 2.1)
+
+\noindent
+Third example:
+
+> A third example concerns explanations of the Black-white wealth gap among Americans. A
+common social structural explanation of this racial wealth gap appeals to “historical and contemporary structural factors” ...  Financial services were denied to Blacks through redlining practices and discriminatory covenants prevented them from owning, occupying, or leasing property,
+which excluded them from receiving Federal Housing Administration loans ... The systemic denial of resources to Blacks made home ownership–and the ensuing
+accumulation and transmission of wealth–exceedingly difficult, if not outright impossible. (section 2.1)
+
+Contrary to what many think, there is nothing mysterious about structures acting as causes. Social structures are causes simply because they meet the counterfactual test of causation in the manipulability account.^[A different question---which Ross does not address---is, how does the manipulability account *model* the distinction between structuring (or constraining) causes and triggering causes? How would you answer this question? See the other reading for today by Malinsky.] Consider the first example mentioned earlier:
+
+> In this case, the relevant structure is bus transit availability (T), which is either available (1) or not (0) in a
+given location. Within the interventionist framework, it makes perfect sense to say that this structure causes and explains the job loss (L) outcome. Given that Jason is willing to attend work, the
+absence of this resource prevents him from going, which causes the job loss. The operative counterfactual here is that if this resource were available, then the job loss would not have occurred.(section 3.1)
+
+How should structures as causes be understood? Haslanger (as we saw last week) suggests that we understand structural explanations of social phenomena  in terms of a part/whole relationship.^[Recall the examples from last week: the treat in the ball; the grading curve; standing up when the Queen enters; the invisible foot.] But, while some part/whole relationships are explanatory and causal, others are not. How are we to distinguish between the two?
+
+>  Jason is “part” of his family, church community,
+individuals on planet Earth, and so on, but none of these explain his job loss. Of course, this
+doesn’t demonstrate that part-whole relations cannot be or are never explanatory, just that we
+need something more to capture what is. If some factor is explanatory in virtue of standing in a
+part-whole relationship to the outcome, yet many irrelevant factors also have this feature, what
+distinguishes the relevant factors from the irrelevant ones? (section 2.3)
+
+\noindent
+Instead of thinking in part/whole terms, Ross prefers to think of structural causes as *constraints*. 
+Here is an example from Dretske:^[Dretske (1988), *Explaining behavior: Reasons in a world of causes*,  MIT Press.]
+
+> a switch is electrically wired to either a light that shines or a bell that rings. Suppose you want
+to explain the behavior of this system–what explains why the light shines or the bell rings? In
+this case, there are two main causal factors: the (1) switch that is on/off and the (2) wire which
+determines what downstream system the switch is connected to. These factors are both causes and
+they interact to produce the system’s behavior–both need to be in a particular state for the system
+to exhibit a given behavior. However, while both causes are involved they play different causal
+and explanatory roles ... . The wire is a structuring cause because it shapes, guides, and
+constrains the behavior of the system, namely, whether it is the light or bell that turns on. On
+the other hand, the switch is a triggering cause because it controls when the system’s behavior
+is produced.  (section 3)
+
+\noindent 
+Dretske's picture can be applied to the social sciences and can model the relationships between individuals and social structures. So here is the core of Ross's proposal: structures as causes should be understood 
+as *constraints* on the available choices individuals can make.
+
+>  In social
+structural explanations, social structure operates as a “causal constraint” on the behavior of individuals. Social structure imposes limitations on which options are available to individuals, while
+their agency performs the selection. (section 3.3)
+
+\noindent
+The constraints that a structure imposes on individual choices 
+can be more or less stringent. The constraining force can be so definitive that it necessarily determines what individuals will do. More often than not, however, constraining causes will have an effect 
+on the *probabilities* of possible outcomes, choices, and decisions.^[It is instructive to go back to the examples in Haslanger's paper on social structural explanation and see if they can all be modeled using structuring causes. Can they? What about the feedback loop in the Invisible Foot example?]
+
+> Social structure can operate as a strong constraint in the sense
+that it makes some outcomes much easier, more favorable, or more rational than others. Consider an individual with limited resources (financial, time, transportation, etc.) that has to walk
+either 1, 3, or 5 miles to the nearest grocery store to purchase fresh produce. As the distance
+of the store increases–and other resources diminish–it becomes much more difficult to make
+the “healthy” decision, despite the fact that it is still “possible” in some sense. (section 3.3)
+
+# Malinsky on intervening on structures
+
+
+One question in Ross's account is left open. If structures can sometimes act as causes by playing the role of constraints, how do they fit into the manipulability account of causation? As noted earlier, structures can meet the counterfactual test, but how can they be intervened on or manipulated? Usually, single variables are manipulated: they are turned on or off. But structures do not seem to be just single variables. What would a manipulation or an intervention on a structure look like?
+
+Here is a simple structural equation model:
+
+\[Y = \theta_1 X_1 + \theta_2 X_2\]
+
+\noindent
+The model says that variables $X_1$ and $X_2$ are (potential) direct causes of the outcome variable $Y$.^[Can you think of an example?] The strength of the causal dependency is given by the coefficient $\theta_1$ and $\theta_2$. Suppose that $\theta_1=.4$ and $\theta_2=-1.3$. The vector $(\theta_1, \theta_2)=(.4, -1.3)$ gives information about the *causal structure*. So, intervening on the structure means---at least in this example---to change the values assigned to the parameters $\theta_1$ and $\theta_2$, say to $(0, .87)$. 
+
+> Most abstractly, an intervention on the structure ... is a setting of the functions and parameters which characterize the model to a new set of functions and a new set of parameter values (p. 2301)
+
+\noindent
+Once the intervention is carried out, the counterfactual (causal) question can be asked: by manipulating the structure (that is, manipulating the values of the parameters), how would the value of the variables change as a result? This is rather abstract, but  can be applied to concrete examples:^[It can be helpful to work through the healthcare example on pp. 2303.]
+
+> ... “patriarchy,” “capitalism,” and other macro-structural features of a system may be identified with sets of parameters (and/or functions) in some model and we can ask, for example, “what would be different about the distribution of wealth if there were no gendered wage gap (no causal dependence of salary on gender), and if hiring/promotions were gender-blind?” (p.2304)
+
+An interesting (and perhaps revealing) limitation of this approach is that structures with 
+feedback loops cannot be modeled as causes:^[So, looks like the Invisible Foot example by Haslanger cannot be modeled as a cause.  Do you think this is a serious limitation of Malinsky's account? How does this observation apply to the causal role of race and gender? Does modeling their causal role require postulating feedback loops?]
+
+> Unfortunately, the story is not so simple for models which exhibit causal feedback ... It is typically assumed that the system is measured at some kind of equilibrium ... Roughly speaking, a model has a well-defined equilibrium distribution only so long as the functions do not “blow up,” i.e., create an unstable feedback process. Consequently, some interventions on sets of structural parameters or functions make counterfactual prediction impossible ... Parameters in such dynamic models must satisfy certain mathematical constraints in order to be well-behaved in a statistical sense; otherwise the system does not have a stable distribution. Thus, in considering candidate interventions on structure in models with feedback or dynamical processes, we can only investigate counterfactual settings which respect these mathematical constraints, or else we are setting ourselves up to consider counterfactual predictions for an unpredictable system. (pp. 2307-2307)
+
+
+# Coda: Race and Gender
+
+One question the readings for today do not directly address is, how does the idea of structures as causes help to understand the causal role of race and gender? Here are a couple of tentative responses. Following Ross, perhaps race and gender can be modeled as structures that constrain the choices of individuals. Following Malinsky, perhaps race and gender can be modeled as the parameters in a given causal causal structure. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
