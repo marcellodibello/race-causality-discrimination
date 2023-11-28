@@ -90,7 +90,7 @@ either identifying causes or with proposing causal mechanisms. In the latter two
 can be a cause, because we are just talking rather than doing. When we design an experiment, or
 other causal study, however, the only things that can qualify as causes are treatments or
 interventions." (p. 8)] Arguably, Holland is willing to admit that RACE can be part of a causal mechanism that explains  a phenomenon or pattern in the data. What he objects to is that the 
-causal effect of RACE can be studied experimentally.^[If this interpretation is right, it seems as though his argument is only about the limitations of experimental studies in examining RACE as a cause, not so much the imposisbility of RACE being a cause as such. Do you agree?] 
+causal effect of RACE can be studied experimentally.^[If this interpretation is right, it seems as though his argument is only about the limitations of experimental studies in examining RACE as a cause, not so much the impossibility of RACE being a cause as such. Do you agree?] 
 
 # Discrimination, Biases and Causation
 
