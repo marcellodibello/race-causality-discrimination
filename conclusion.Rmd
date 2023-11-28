@@ -2,8 +2,8 @@
 title: "[Race Causality Discrimination](https://www.marcellodibello.com/race-causality-discrimination/) -- What Have We Done?"
 author: "Marcello Di Bello - ASU - Fall 2023 - Week #15"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 header-includes: 
   - \usepackage{tikz}
   - \usepackage{pgfplots}
