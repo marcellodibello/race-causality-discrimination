@@ -2,7 +2,7 @@
 ---
 title: "PHI 420/555 - Race Causality Discrimination"
 subtitle: "Fall 23"
-author: "[Marcello Di Bello](https://www.marcellodibello.com/)  - mdibello@asu.edu"
+author: "[Marcello Di Bllo](https://www.marcellodibello.com/)  - mdibello@asu.edu"
 output:
     rmdformats::html_clean:
     fig_width: 6
